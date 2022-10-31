@@ -1,0 +1,316 @@
+Oct  6 01:12:36 servera polkitd[721]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:12:36 servera polkitd[721]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:12:36 servera polkitd[721]: Finished loading, compiling and executing 2 rules
+Oct  6 01:12:36 servera polkitd[721]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:12:36 servera sshd[820]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:12:36 servera sshd[820]: Server listening on :: port 22.
+Oct  6 01:13:24 servera systemd[5219]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:13:24 servera login[836]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct  6 01:13:24 servera login[836]: ROOT LOGIN ON tty1
+Oct  6 01:17:13 servera polkitd[742]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:17:13 servera polkitd[742]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:17:13 servera polkitd[742]: Finished loading, compiling and executing 2 rules
+Oct  6 01:17:13 servera polkitd[742]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:17:14 servera sshd[778]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:17:14 servera sshd[778]: Server listening on :: port 22.
+Oct  6 01:17:30 servera sshd[1342]: Accepted password for root from 192.168.56.118 port 45178 ssh2
+Oct  6 01:17:30 servera systemd[1347]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:17:30 servera sshd[1342]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct  6 01:18:17 servera login[795]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct  6 01:18:17 servera login[795]: ROOT LOGIN ON tty1
+Oct  6 01:18:49 servera useradd[1576]: failed adding user 'dbus', exit code: 9
+Oct  6 01:22:09 servera sshd[756]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:22:09 servera sshd[756]: Server listening on :: port 22.
+Oct  6 01:22:09 servera polkitd[743]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:22:09 servera polkitd[743]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:22:09 servera polkitd[743]: Finished loading, compiling and executing 2 rules
+Oct  6 01:22:09 servera polkitd[743]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:22:21 servera sshd[4964]: Accepted password for root from 192.168.56.118 port 34608 ssh2
+Oct  6 01:22:21 servera systemd[4971]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:22:21 servera sshd[4964]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct  6 01:32:14 servera sshd[758]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:32:14 servera sshd[758]: Server listening on :: port 22.
+Oct  6 01:32:14 servera polkitd[745]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:32:14 servera polkitd[745]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:32:14 servera polkitd[745]: Finished loading, compiling and executing 2 rules
+Oct  6 01:32:14 servera polkitd[745]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:32:24 servera sshd[1273]: Accepted password for root from 192.168.56.118 port 58350 ssh2
+Oct  6 01:32:24 servera systemd[1278]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:32:24 servera sshd[1273]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct  6 01:36:21 servera sshd[774]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:36:21 servera sshd[774]: Server listening on :: port 22.
+Oct  6 01:36:21 servera polkitd[761]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:36:21 servera polkitd[761]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:36:21 servera polkitd[761]: Finished loading, compiling and executing 2 rules
+Oct  6 01:36:21 servera polkitd[761]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:36:30 servera systemd[1296]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:36:30 servera login[803]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct  6 01:36:30 servera login[803]: ROOT LOGIN ON tty1
+Oct  6 01:37:45 servera sshd[1338]: Accepted password for root from 192.168.56.118 port 33938 ssh2
+Oct  6 01:37:45 servera sshd[1338]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct  6 01:38:53 serverb sshd[765]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:38:53 serverb sshd[765]: Server listening on :: port 22.
+Oct  6 01:38:53 serverb polkitd[753]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:38:53 serverb polkitd[753]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:38:53 serverb polkitd[753]: Finished loading, compiling and executing 2 rules
+Oct  6 01:38:53 serverb polkitd[753]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:39:24 serverb sshd[1287]: Accepted password for root from 192.168.56.118 port 46152 ssh2
+Oct  6 01:39:24 serverb systemd[1295]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:39:24 serverb sshd[1287]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct  6 01:42:42 serverb sshd[754]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:42:42 serverb sshd[754]: Server listening on :: port 22.
+Oct  6 01:42:42 serverb polkitd[741]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:42:42 serverb polkitd[741]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:42:42 serverb polkitd[741]: Finished loading, compiling and executing 2 rules
+Oct  6 01:42:42 serverb polkitd[741]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:44:04 serverb sshd[1276]: Accepted password for root from 192.168.56.118 port 57298 ssh2
+Oct  6 01:44:04 serverb systemd[1281]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:44:04 serverb sshd[1276]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 10 23:18:24 serverb sshd[767]: Server listening on 0.0.0.0 port 22.
+Oct 10 23:18:24 serverb sshd[767]: Server listening on :: port 22.
+Oct 10 23:18:24 serverb polkitd[751]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 10 23:18:24 serverb polkitd[751]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 10 23:18:24 serverb polkitd[751]: Finished loading, compiling and executing 2 rules
+Oct 10 23:18:24 serverb polkitd[751]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 10 23:20:05 serverb sshd[1287]: Accepted password for root from 192.168.56.118 port 32784 ssh2
+Oct 10 23:20:05 serverb systemd[1292]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 10 23:20:05 serverb sshd[1287]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 11 01:09:57 serverb sshd[1302]: Received disconnect from 192.168.56.118 port 32784:11: disconnected by user
+Oct 11 01:09:57 serverb sshd[1302]: Disconnected from user root 192.168.56.118 port 32784
+Oct 11 01:09:57 serverb sshd[1287]: pam_unix(sshd:session): session closed for user root
+Oct 11 01:10:43 serverb unix_chkpwd[1424]: password check failed for user (root)
+Oct 11 01:10:43 serverb login[796]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost=  user=root
+Oct 11 01:10:45 serverb login[796]: FAILED LOGIN 1 FROM tty1 FOR root, Authentication failure
+Oct 11 01:10:52 serverb systemd[1429]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 11 01:10:52 serverb login[796]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct 11 01:10:52 serverb login[796]: ROOT LOGIN ON tty1
+Oct 11 23:42:49 serverb sshd[755]: Server listening on 0.0.0.0 port 22.
+Oct 11 23:42:49 serverb sshd[755]: Server listening on :: port 22.
+Oct 11 23:42:49 serverb polkitd[740]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 11 23:42:49 serverb polkitd[740]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 11 23:42:49 serverb polkitd[740]: Finished loading, compiling and executing 2 rules
+Oct 11 23:42:49 serverb polkitd[740]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 11 23:43:56 serverb sshd[1273]: Accepted password for root from 192.168.56.118 port 57638 ssh2
+Oct 11 23:43:56 serverb systemd[1278]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 11 23:43:56 serverb sshd[1273]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 12 00:08:42 serverb sshd[1335]: Connection closed by 192.168.56.118 port 46048 [preauth]
+Oct 12 22:54:27 serverb sshd[763]: Server listening on 0.0.0.0 port 22.
+Oct 12 22:54:27 serverb sshd[763]: Server listening on :: port 22.
+Oct 12 22:54:27 serverb polkitd[754]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 12 22:54:27 serverb polkitd[754]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 12 22:54:27 serverb polkitd[754]: Finished loading, compiling and executing 2 rules
+Oct 12 22:54:27 serverb polkitd[754]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 12 22:55:47 serverb sshd[1286]: Accepted password for root from 192.168.56.118 port 45854 ssh2
+Oct 12 22:55:48 serverb systemd[1291]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 12 22:55:48 serverb sshd[1286]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 13 00:00:32 serverb sshd[1381]: Connection closed by authenticating user admin 192.168.56.118 port 44246 [preauth]
+Oct 13 00:00:32 serverb sshd[1383]: Connection closed by authenticating user admin 192.168.56.118 port 44248 [preauth]
+Oct 13 00:00:35 serverb sshd[1385]: Accepted password for admin from 192.168.56.118 port 44260 ssh2
+Oct 13 00:00:35 serverb systemd[1390]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 00:00:35 serverb sshd[1385]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 00:00:35 serverb sshd[1400]: Received disconnect from 192.168.56.118 port 44260:11: disconnected by user
+Oct 13 00:00:35 serverb sshd[1400]: Disconnected from user admin 192.168.56.118 port 44260
+Oct 13 00:00:35 serverb sshd[1385]: pam_unix(sshd:session): session closed for user admin
+Oct 13 00:00:46 serverb systemd[1394]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 17:06:19 serverb sshd[755]: Server listening on 0.0.0.0 port 22.
+Oct 13 17:06:19 serverb sshd[755]: Server listening on :: port 22.
+Oct 13 17:06:19 serverb polkitd[746]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 13 17:06:19 serverb polkitd[746]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 13 17:06:19 serverb polkitd[746]: Finished loading, compiling and executing 2 rules
+Oct 13 17:06:19 serverb polkitd[746]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 13 17:07:47 serverb sshd[1275]: Accepted password for root from 192.168.56.118 port 54590 ssh2
+Oct 13 17:07:47 serverb systemd[1280]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 13 17:07:47 serverb sshd[1275]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 13 19:24:29 serverb sshd[1390]: Accepted publickey for admin from 192.168.56.118 port 52464 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 19:24:29 serverb systemd[1394]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 19:24:29 serverb sshd[1390]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 19:25:30 serverb sshd[1404]: Received disconnect from 192.168.56.118 port 52464:11: disconnected by user
+Oct 13 19:25:30 serverb sshd[1404]: Disconnected from user admin 192.168.56.118 port 52464
+Oct 13 19:25:30 serverb sshd[1390]: pam_unix(sshd:session): session closed for user admin
+Oct 13 19:25:40 serverb systemd[1398]: pam_unix(systemd-user:session): session closed for user admin
+Oct 14 22:02:37 serverb sshd[756]: Server listening on 0.0.0.0 port 22.
+Oct 14 22:02:37 serverb sshd[756]: Server listening on :: port 22.
+Oct 14 22:02:37 serverb polkitd[741]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 14 22:02:37 serverb polkitd[741]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 14 22:02:37 serverb polkitd[741]: Finished loading, compiling and executing 2 rules
+Oct 14 22:02:37 serverb polkitd[741]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 14 22:04:26 serverb sshd[1278]: Accepted password for root from 192.168.56.118 port 54910 ssh2
+Oct 14 22:04:26 serverb systemd[1283]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 14 22:04:26 serverb sshd[1278]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 15 06:31:58 serverb sshd[1570]: Invalid user devops from 192.168.56.118 port 46948
+Oct 15 06:31:58 serverb sshd[1570]: Connection closed by invalid user devops 192.168.56.118 port 46948 [preauth]
+Oct 15 06:32:31 serverb sshd[1572]: Accepted publickey for admin from 192.168.56.118 port 34734 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:32:31 serverb systemd[1576]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 06:32:31 serverb sshd[1572]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 06:32:32 serverb sudo[1723]:   admin : a password is required ; TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-wpullrgpsjrnbxzpvwbvjfnsgvjhtkas ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957799.956917-11311-207712241949569/AnsiballZ_setup.py
+Oct 15 06:33:32 serverb sshd[1587]: Received disconnect from 192.168.56.118 port 34734:11: disconnected by user
+Oct 15 06:33:32 serverb sshd[1587]: Disconnected from user admin 192.168.56.118 port 34734
+Oct 15 06:33:32 serverb sshd[1572]: pam_unix(sshd:session): session closed for user admin
+Oct 15 06:33:42 serverb systemd[1581]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 06:49:21 serverb useradd[1760]: new group: name=devops, GID=1001
+Oct 15 06:49:21 serverb useradd[1760]: new user: name=devops, UID=1001, GID=1001, home=/home/devops, shell=/bin/bash
+Oct 15 06:49:30 serverb passwd[1768]: pam_unix(passwd:chauthtok): password changed for devops
+Oct 15 06:52:23 serverb sshd[1775]: Accepted password for devops from 192.168.56.118 port 43980 ssh2
+Oct 15 06:52:23 serverb systemd[1780]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 06:52:23 serverb sshd[1775]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 06:52:23 serverb sshd[1791]: Received disconnect from 192.168.56.118 port 43980:11: disconnected by user
+Oct 15 06:52:23 serverb sshd[1791]: Disconnected from user devops 192.168.56.118 port 43980
+Oct 15 06:52:23 serverb sshd[1775]: pam_unix(sshd:session): session closed for user devops
+Oct 15 06:52:33 serverb systemd[1785]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 06:52:42 serverb sshd[1816]: Connection closed by authenticating user devops 192.168.56.118 port 46104 [preauth]
+Oct 15 06:52:42 serverb sshd[1818]: Connection closed by authenticating user devops 192.168.56.118 port 46118 [preauth]
+Oct 15 06:52:45 serverb sshd[1820]: Accepted password for devops from 192.168.56.118 port 46130 ssh2
+Oct 15 06:52:45 serverb systemd[1825]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 06:52:45 serverb sshd[1820]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 06:52:45 serverb sshd[1835]: Received disconnect from 192.168.56.118 port 46130:11: disconnected by user
+Oct 15 06:52:45 serverb sshd[1835]: Disconnected from user devops 192.168.56.118 port 46130
+Oct 15 06:52:45 serverb sshd[1820]: pam_unix(sshd:session): session closed for user devops
+Oct 15 06:52:55 serverb systemd[1829]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 06:53:12 serverb sshd[1864]: Accepted publickey for devops from 192.168.56.118 port 44394 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:53:12 serverb systemd[1868]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 06:53:12 serverb sshd[1864]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 06:53:12 serverb sshd[1878]: Received disconnect from 192.168.56.118 port 44394:11: disconnected by user
+Oct 15 06:53:12 serverb sshd[1878]: Disconnected from user devops 192.168.56.118 port 44394
+Oct 15 06:53:12 serverb sshd[1864]: pam_unix(sshd:session): session closed for user devops
+Oct 15 06:53:22 serverb systemd[1872]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 06:58:53 serverb sshd[1903]: Accepted publickey for devops from 192.168.56.118 port 45782 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:58:53 serverb systemd[1907]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 06:58:53 serverb sshd[1903]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 06:58:53 serverb sudo[2054]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-asdrvgdkpxbtxnrfrdvtttufzumniros ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665959381.8346221-12159-186511831827135/AnsiballZ_command.py
+Oct 15 06:58:53 serverb sudo[2054]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:58:53 serverb sudo[2054]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 15 06:58:54 serverb sudo[2054]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:59:54 serverb sshd[1918]: Received disconnect from 192.168.56.118 port 45782:11: disconnected by user
+Oct 15 06:59:54 serverb sshd[1918]: Disconnected from user devops 192.168.56.118 port 45782
+Oct 15 06:59:54 serverb sshd[1903]: pam_unix(sshd:session): session closed for user devops
+Oct 15 07:00:04 serverb systemd[1912]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 07:01:16 serverb sshd[2095]: Accepted publickey for devops from 192.168.56.118 port 43628 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 07:01:16 serverb systemd[2099]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 07:01:16 serverb sshd[2095]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 07:01:17 serverb sudo[2245]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-nlofgsmxfwfsntoxhxlcrptdacwksriv ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665959525.0789587-12514-230385252242896/AnsiballZ_command.py
+Oct 15 07:01:17 serverb sudo[2245]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:01:17 serverb sudo[2245]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 15 07:01:17 serverb sudo[2245]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:01:35 serverb sshd[2268]: Accepted publickey for admin from 192.168.56.118 port 49140 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 07:01:35 serverb systemd[2272]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 07:01:35 serverb sshd[2268]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 07:01:36 serverb sudo[2418]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-pyrbhjpkvzbyraqtynlngjygofrvrvrq ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959544.470019-12551-223788626902669/AnsiballZ_setup.py
+Oct 15 07:01:36 serverb sudo[2418]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:01:36 serverb sudo[2418]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:01:37 serverb sudo[2418]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:01:38 serverb sudo[2573]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ckpejxirnwzezdsjmciqypibjigfmsbx ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959546.356844-12568-1867224231783/AnsiballZ_systemd.py
+Oct 15 07:01:38 serverb sudo[2573]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:01:38 serverb sudo[2573]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:01:38 serverb sudo[2573]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:02:13 serverb sudo[2733]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ambbnghchyapmgmntxgygujqkaijvawa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959581.2182925-12616-254539317270286/AnsiballZ_setup.py
+Oct 15 07:02:13 serverb sudo[2733]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:02:13 serverb sudo[2733]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:02:14 serverb sudo[2733]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:02:14 serverb sudo[2888]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cntksmfwufoyoxavhunhuckfncztwnza ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959582.763759-12627-46440495995846/AnsiballZ_dnf.py
+Oct 15 07:02:14 serverb sudo[2888]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:02:14 serverb sudo[2888]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:02:17 serverb sshd[2109]: Received disconnect from 192.168.56.118 port 43628:11: disconnected by user
+Oct 15 07:02:17 serverb sshd[2109]: Disconnected from user devops 192.168.56.118 port 43628
+Oct 15 07:02:17 serverb sshd[2095]: pam_unix(sshd:session): session closed for user devops
+Oct 15 07:02:27 serverb systemd[2103]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 07:02:36 serverb groupadd[2959]: group added to /etc/group: name=mysql, GID=27
+Oct 15 07:02:36 serverb groupadd[2959]: group added to /etc/gshadow: name=mysql
+Oct 15 07:02:36 serverb groupadd[2959]: new group: name=mysql, GID=27
+Oct 15 07:02:36 serverb useradd[2965]: new user: name=mysql, UID=27, GID=27, home=/var/lib/mysql, shell=/sbin/nologin
+Oct 15 07:02:42 serverb sudo[2888]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:02:43 serverb sudo[3571]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-gcgjtqdlcnahwretfevzhjbpivxyjjyg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959611.1574378-12627-142760815147936/AnsiballZ_dnf.py
+Oct 15 07:02:43 serverb sudo[3571]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:02:43 serverb sudo[3571]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:02:46 serverb sudo[3571]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:02:47 serverb sudo[5249]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-infuxgsncgftemlypfvvkofxfkvlhjmn ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959615.1677022-12651-189066226637830/AnsiballZ_systemd.py
+Oct 15 07:02:47 serverb sudo[5249]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:02:47 serverb sudo[5249]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:02:51 serverb sudo[5249]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:03:01 serverb sudo[14343]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rahtgjsgcrdcptzymhfouqfhubmxmwqe ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959628.756644-12673-89584433835592/AnsiballZ_setup.py
+Oct 15 07:03:01 serverb sudo[14343]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:03:01 serverb sudo[14343]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:03:01 serverb sudo[14343]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:03:02 serverb sudo[14498]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-fwdoweiobpkjogsmtgwsgxdstwcowdaz ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959630.3108647-12684-16148650706450/AnsiballZ_dnf.py
+Oct 15 07:03:02 serverb sudo[14498]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:03:02 serverb sudo[14498]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:03:03 serverb sudo[14498]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:03:03 serverb sudo[14618]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ydspwckphmtfjxdwoxfbkhgunzvpgzfa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959631.6689477-12684-143793214563333/AnsiballZ_dnf.py
+Oct 15 07:03:03 serverb sudo[14618]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:03:03 serverb sudo[14618]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:03:04 serverb sudo[14618]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:03:05 serverb sudo[14738]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cywrigpxrjfggbqetxcevfljuqymcihd ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959633.0017762-12700-27321534581911/AnsiballZ_systemd.py
+Oct 15 07:03:05 serverb sudo[14738]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 07:03:05 serverb sudo[14738]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 07:03:05 serverb sudo[14738]: pam_unix(sudo:session): session closed for user root
+Oct 15 07:04:05 serverb sshd[2282]: Received disconnect from 192.168.56.118 port 49140:11: disconnected by user
+Oct 15 07:04:05 serverb sshd[2282]: Disconnected from user admin 192.168.56.118 port 49140
+Oct 15 07:04:05 serverb sshd[2268]: pam_unix(sshd:session): session closed for user admin
+Oct 17 17:00:41 serverb sshd[780]: Server listening on 0.0.0.0 port 22.
+Oct 17 17:00:41 serverb sshd[780]: Server listening on :: port 22.
+Oct 17 17:00:41 serverb polkitd[763]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 17 17:00:41 serverb polkitd[763]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 17 17:00:41 serverb polkitd[763]: Finished loading, compiling and executing 2 rules
+Oct 17 17:00:41 serverb polkitd[763]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 17 18:05:15 serverb sshd[1480]: Accepted password for root from 192.168.56.118 port 47312 ssh2
+Oct 17 18:05:16 serverb systemd[1485]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 17 18:05:16 serverb sshd[1480]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 18 23:13:32 serverb sshd[756]: Server listening on 0.0.0.0 port 22.
+Oct 18 23:13:32 serverb sshd[756]: Server listening on :: port 22.
+Oct 18 23:13:32 serverb polkitd[741]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 18 23:13:32 serverb polkitd[741]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 18 23:13:32 serverb polkitd[741]: Finished loading, compiling and executing 2 rules
+Oct 18 23:13:32 serverb polkitd[741]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 18 23:16:17 serverb sshd[1404]: Accepted password for root from 192.168.56.118 port 59114 ssh2
+Oct 18 23:16:17 serverb systemd[1409]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 18 23:16:17 serverb sshd[1404]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 19 22:25:57 serverb sshd[784]: Server listening on 0.0.0.0 port 22.
+Oct 19 22:25:57 serverb sshd[784]: Server listening on :: port 22.
+Oct 19 22:25:57 serverb polkitd[768]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 19 22:25:57 serverb polkitd[768]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 19 22:25:57 serverb polkitd[768]: Finished loading, compiling and executing 2 rules
+Oct 19 22:25:57 serverb polkitd[768]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 19 22:26:50 serverb sshd[1428]: Accepted password for root from 192.168.56.118 port 56802 ssh2
+Oct 19 22:26:51 serverb systemd[1433]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 19 22:26:51 serverb sshd[1428]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 19 22:28:15 serverb sshd[1467]: Accepted publickey for admin from 192.168.56.118 port 53440 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 22:28:15 serverb systemd[1471]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 22:28:15 serverb sshd[1467]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 22:28:17 serverb sshd[1481]: Received disconnect from 192.168.56.118 port 53440:11: disconnected by user
+Oct 19 22:28:17 serverb sshd[1481]: Disconnected from user admin 192.168.56.118 port 53440
+Oct 19 22:28:17 serverb sshd[1467]: pam_unix(sshd:session): session closed for user admin
+Oct 19 22:28:27 serverb systemd[1475]: pam_unix(systemd-user:session): session closed for user admin
+Oct 19 23:36:41 serverb su[1567]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 19 23:36:41 serverb su[1567]: pam_unix(su-l:session): session opened for user admin by root(uid=0)
+Oct 19 23:37:22 serverb sshd[1596]: Accepted publickey for admin from 192.168.56.118 port 44734 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 23:37:22 serverb systemd[1600]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 23:37:22 serverb sshd[1596]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 23:37:22 serverb sshd[1611]: Received disconnect from 192.168.56.118 port 44734:11: disconnected by user
+Oct 19 23:37:22 serverb sshd[1611]: Disconnected from user admin 192.168.56.118 port 44734
+Oct 19 23:37:22 serverb sshd[1596]: pam_unix(sshd:session): session closed for user admin
+Oct 19 23:37:32 serverb systemd[1605]: pam_unix(systemd-user:session): session closed for user admin
+Oct 19 23:37:49 serverb su[1567]: pam_unix(su-l:session): session closed for user admin
+Oct 20 00:38:25 serverb sshd[1668]: Accepted publickey for admin from 192.168.56.118 port 48372 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 20 00:38:25 serverb systemd[1672]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 20 00:38:25 serverb sshd[1668]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 20 00:38:26 serverb sudo[1818]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-wcpivpvhtickstovcelkqecootgmisxy ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666215507.283942-4898-165486959443801/AnsiballZ_ping.py
+Oct 20 00:38:26 serverb sudo[1818]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 20 00:38:26 serverb sudo[1818]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 20 00:38:26 serverb sudo[1818]: pam_unix(sudo:session): session closed for user root
+Oct 20 00:38:46 serverb sudo[1975]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-zgcdzgdqyyzgfpgbrhqowfqwwvjjjpma ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666215528.122794-4950-152670160945962/AnsiballZ_command.py
+Oct 20 00:38:46 serverb sudo[1975]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 20 00:38:46 serverb sudo[1975]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 20 00:38:47 serverb sudo[1975]: pam_unix(sudo:session): session closed for user root
+Oct 20 00:39:47 serverb sshd[1682]: Received disconnect from 192.168.56.118 port 48372:11: disconnected by user
+Oct 20 00:39:47 serverb sshd[1682]: Disconnected from user admin 192.168.56.118 port 48372
+Oct 20 00:39:47 serverb sshd[1668]: pam_unix(sshd:session): session closed for user admin
+Oct 20 00:39:57 serverb systemd[1676]: pam_unix(systemd-user:session): session closed for user admin
+Oct 20 00:44:45 serverb sshd[2006]: Connection closed by authenticating user root 192.168.56.118 port 40552 [preauth]
+Oct 20 00:47:01 serverb sshd[2009]: Connection closed by authenticating user root 192.168.56.118 port 36132 [preauth]
+Oct 20 00:47:02 serverb sshd[2011]: Connection closed by authenticating user root 192.168.56.118 port 36134 [preauth]
+Oct 20 00:47:04 serverb sshd[2013]: Accepted password for root from 192.168.56.118 port 36140 ssh2
+Oct 20 00:47:04 serverb sshd[2013]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 20 00:47:04 serverb sshd[2017]: Received disconnect from 192.168.56.118 port 36140:11: disconnected by user
+Oct 20 00:47:04 serverb sshd[2017]: Disconnected from user root 192.168.56.118 port 36140
+Oct 20 00:47:04 serverb sshd[2013]: pam_unix(sshd:session): session closed for user root
+Oct 20 00:47:40 serverb sshd[2037]: Accepted publickey for root from 192.168.56.118 port 41734 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 20 00:47:40 serverb sshd[2037]: pam_unix(sshd:session): session opened for user root by (uid=0)

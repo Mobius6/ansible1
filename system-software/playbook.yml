@@ -1,0 +1,43 @@
+---
+- name: Enable EPEL and Install httpd and htop packages on the web servers
+  hosts: webservers
+  tasks:
+    - name: Import EPEL GPG key.
+      rpm_key:
+        key: "https://dl.fedoraproject.org/pub/epel/RPM-GPG-KEY-EPEL-8"
+        state: present
+
+    - name: Ensure EPEL repo present
+      yum:
+        name: https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+        state: present
+
+    - name: Install the packages htop and httpd
+      yum:
+        name:
+          - httpd
+          - htop
+        state: present
+      when: "ansible_distribution == 'Rocky'"
+
+- name: Enable apache service and create index.html
+  hosts: webservers
+  become: yes
+  tasks:
+    - name: Delete /etc/httpd/conf.d/vhost.conf
+      file:
+        path: /etc/httpd/conf.d/vhost.conf
+        state: absent
+
+    - name: Test html page is installed
+      copy:
+        content: "Two Things are infinite: Universe and Human Stupidity and I am not sure about the former!\n"
+        dest: /var/www/html/index.html
+        force: yes
+
+    - name: httpd enabled and running
+      service:
+        name: httpd
+        enabled: true
+        state: started
+

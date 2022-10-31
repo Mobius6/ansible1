@@ -1,0 +1,9 @@
+servera.lab.example.com 
+serverb.lab.example.com  
+
+[control_node]
+localhost
+
+[web]
+serverc.lab.example.com 
+serverd.lab.example.com 

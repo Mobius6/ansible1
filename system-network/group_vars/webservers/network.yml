@@ -1,0 +1,10 @@
+---
+
+### NOTE: on my system the device is enp0s9 and not ens4
+
+network_connections:
+  - name: enp0s9
+    type: ethernet
+    ip:
+      address:
+        - 172.25.250.30/24

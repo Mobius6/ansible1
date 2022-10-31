@@ -1,0 +1,5 @@
+---
+# requirements.yml
+- src: file:///home/admin/student.bash_env.tar
+  version: master
+  name: student.bash_env

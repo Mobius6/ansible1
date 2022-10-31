@@ -1,0 +1,5 @@
+[webserver]
+servera.lab.example.com 
+
+[control_node]
+localhost

@@ -1,0 +1,1052 @@
+Oct  6 01:12:36 servera polkitd[721]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:12:36 servera polkitd[721]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:12:36 servera polkitd[721]: Finished loading, compiling and executing 2 rules
+Oct  6 01:12:36 servera polkitd[721]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:12:36 servera sshd[820]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:12:36 servera sshd[820]: Server listening on :: port 22.
+Oct  6 01:13:24 servera systemd[5219]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:13:24 servera login[836]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct  6 01:13:24 servera login[836]: ROOT LOGIN ON tty1
+Oct  6 01:17:13 servera polkitd[742]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:17:13 servera polkitd[742]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:17:13 servera polkitd[742]: Finished loading, compiling and executing 2 rules
+Oct  6 01:17:13 servera polkitd[742]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:17:14 servera sshd[778]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:17:14 servera sshd[778]: Server listening on :: port 22.
+Oct  6 01:17:30 servera sshd[1342]: Accepted password for root from 192.168.56.118 port 45178 ssh2
+Oct  6 01:17:30 servera systemd[1347]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:17:30 servera sshd[1342]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct  6 01:18:17 servera login[795]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct  6 01:18:17 servera login[795]: ROOT LOGIN ON tty1
+Oct  6 01:18:49 servera useradd[1576]: failed adding user 'dbus', exit code: 9
+Oct  6 01:22:09 servera sshd[756]: Server listening on 0.0.0.0 port 22.
+Oct  6 01:22:09 servera sshd[756]: Server listening on :: port 22.
+Oct  6 01:22:09 servera polkitd[743]: Loading rules from directory /etc/polkit-1/rules.d
+Oct  6 01:22:09 servera polkitd[743]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct  6 01:22:09 servera polkitd[743]: Finished loading, compiling and executing 2 rules
+Oct  6 01:22:09 servera polkitd[743]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct  6 01:22:21 servera sshd[4964]: Accepted password for root from 192.168.56.118 port 34608 ssh2
+Oct  6 01:22:21 servera systemd[4971]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct  6 01:22:21 servera sshd[4964]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 10 23:12:34 servera sshd[766]: Server listening on 0.0.0.0 port 22.
+Oct 10 23:12:34 servera sshd[766]: Server listening on :: port 22.
+Oct 10 23:12:34 servera polkitd[753]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 10 23:12:34 servera polkitd[753]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 10 23:12:34 servera polkitd[753]: Finished loading, compiling and executing 2 rules
+Oct 10 23:12:34 servera polkitd[753]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 10 23:17:07 servera systemd[1292]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 10 23:17:07 servera login[797]: pam_unix(login:session): session opened for user root by LOGIN(uid=0)
+Oct 10 23:17:07 servera login[797]: ROOT LOGIN ON tty1
+Oct 10 23:17:50 servera sshd[1330]: Accepted password for root from 192.168.56.118 port 47910 ssh2
+Oct 10 23:17:50 servera sshd[1330]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 11 01:09:56 servera sshd[1334]: Received disconnect from 192.168.56.118 port 47910:11: disconnected by user
+Oct 11 01:09:56 servera sshd[1334]: Disconnected from user root 192.168.56.118 port 47910
+Oct 11 01:09:56 servera sshd[1330]: pam_unix(sshd:session): session closed for user root
+Oct 11 23:42:26 servera sshd[755]: Server listening on 0.0.0.0 port 22.
+Oct 11 23:42:26 servera sshd[755]: Server listening on :: port 22.
+Oct 11 23:42:26 servera polkitd[740]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 11 23:42:26 servera polkitd[740]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 11 23:42:26 servera polkitd[740]: Finished loading, compiling and executing 2 rules
+Oct 11 23:42:26 servera polkitd[740]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 11 23:43:41 servera sshd[1276]: Accepted password for root from 192.168.56.118 port 41724 ssh2
+Oct 11 23:43:41 servera systemd[1281]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 11 23:43:41 servera sshd[1276]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 12 00:08:56 servera sshd[1346]: Connection closed by authenticating user admin 192.168.56.118 port 45512 [preauth]
+Oct 12 00:44:11 servera useradd[1355]: new group: name=devops, GID=1001
+Oct 12 00:44:11 servera useradd[1355]: new user: name=devops, UID=1001, GID=1001, home=/home/devops, shell=/bin/bash
+Oct 12 00:44:19 servera passwd[1363]: pam_unix(passwd:chauthtok): password changed for devops
+Oct 12 00:46:08 servera su[1369]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 12 00:46:08 servera su[1369]: pam_unix(su-l:session): session opened for user devops by root(uid=0)
+Oct 12 00:46:16 servera sudo[1397]:  devops : TTY=pts/0 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Oct 12 00:46:16 servera sudo[1397]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 12 00:46:16 servera sudo[1397]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Oct 12 00:46:16 servera sudo[1397]: pam_unix(sudo:session): session closed for user root
+Oct 12 01:03:18 servera su[1369]: pam_unix(su-l:session): session closed for user devops
+Oct 12 22:54:17 servera sshd[774]: Server listening on 0.0.0.0 port 22.
+Oct 12 22:54:17 servera sshd[774]: Server listening on :: port 22.
+Oct 12 22:54:17 servera polkitd[760]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 12 22:54:17 servera polkitd[760]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 12 22:54:17 servera polkitd[760]: Finished loading, compiling and executing 2 rules
+Oct 12 22:54:17 servera polkitd[760]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 12 22:55:32 servera sshd[1295]: Accepted password for root from 192.168.56.118 port 44126 ssh2
+Oct 12 22:55:32 servera systemd[1300]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 12 22:55:32 servera sshd[1295]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 12 23:18:26 servera su[1359]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 12 23:18:26 servera su[1359]: pam_unix(su-l:session): session opened for user devops by root(uid=0)
+Oct 12 23:18:43 servera sudo[1388]:  devops : TTY=pts/0 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Oct 12 23:18:43 servera sudo[1388]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 12 23:18:43 servera sudo[1388]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Oct 12 23:18:43 servera sudo[1388]: pam_unix(sudo:session): session closed for user root
+Oct 12 23:18:47 servera su[1359]: pam_unix(su-l:session): session closed for user devops
+Oct 12 23:32:55 servera sshd[1394]: Connection closed by 192.168.56.118 port 39124 [preauth]
+Oct 13 00:00:26 servera sshd[1427]: Connection closed by authenticating user admin 192.168.56.118 port 56082 [preauth]
+Oct 13 00:00:26 servera sshd[1429]: Connection closed by authenticating user admin 192.168.56.118 port 56092 [preauth]
+Oct 13 00:00:29 servera sshd[1431]: Accepted password for admin from 192.168.56.118 port 56106 ssh2
+Oct 13 00:00:29 servera systemd[1436]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 00:00:29 servera sshd[1431]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 00:00:29 servera sshd[1447]: Received disconnect from 192.168.56.118 port 56106:11: disconnected by user
+Oct 13 00:00:29 servera sshd[1447]: Disconnected from user admin 192.168.56.118 port 56106
+Oct 13 00:00:29 servera sshd[1431]: pam_unix(sshd:session): session closed for user admin
+Oct 13 00:00:39 servera systemd[1441]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 00:07:25 servera sshd[1493]: Accepted publickey for admin from 192.168.56.118 port 40398 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 00:07:25 servera systemd[1497]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 00:07:25 servera sshd[1493]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 00:08:26 servera sshd[1507]: Received disconnect from 192.168.56.118 port 40398:11: disconnected by user
+Oct 13 00:08:26 servera sshd[1507]: Disconnected from user admin 192.168.56.118 port 40398
+Oct 13 00:08:26 servera sshd[1493]: pam_unix(sshd:session): session closed for user admin
+Oct 13 00:08:36 servera systemd[1501]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 00:09:04 servera sshd[1670]: Accepted publickey for admin from 192.168.56.118 port 36112 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 00:09:04 servera systemd[1674]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 00:09:04 servera sshd[1670]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 00:10:55 servera sshd[1684]: Received disconnect from 192.168.56.118 port 36112:11: disconnected by user
+Oct 13 00:10:55 servera sshd[1684]: Disconnected from user admin 192.168.56.118 port 36112
+Oct 13 00:10:55 servera sshd[1670]: pam_unix(sshd:session): session closed for user admin
+Oct 13 00:11:05 servera systemd[1678]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 00:15:47 servera su[1999]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 13 00:15:47 servera su[1999]: pam_unix(su-l:session): session opened for user admin by root(uid=0)
+Oct 13 00:15:54 servera su[2027]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 13 00:15:54 servera su[2027]: pam_unix(su-l:session): session opened for user devops by root(uid=1000)
+Oct 13 00:15:56 servera su[2027]: pam_unix(su-l:session): session closed for user devops
+Oct 13 00:15:57 servera su[1999]: pam_unix(su-l:session): session closed for user admin
+Oct 13 00:19:43 servera sshd[2060]: Connection closed by authenticating user devops 192.168.56.118 port 53168 [preauth]
+Oct 13 00:19:43 servera sshd[2062]: Connection closed by authenticating user devops 192.168.56.118 port 53178 [preauth]
+Oct 13 00:19:46 servera sshd[2064]: Accepted password for devops from 192.168.56.118 port 53182 ssh2
+Oct 13 00:19:46 servera systemd[2069]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 13 00:19:46 servera sshd[2064]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 13 00:19:46 servera sshd[2080]: Received disconnect from 192.168.56.118 port 53182:11: disconnected by user
+Oct 13 00:19:46 servera sshd[2080]: Disconnected from user devops 192.168.56.118 port 53182
+Oct 13 00:19:46 servera sshd[2064]: pam_unix(sshd:session): session closed for user devops
+Oct 13 00:19:56 servera systemd[2074]: pam_unix(systemd-user:session): session closed for user devops
+Oct 13 00:25:53 servera sshd[2112]: Accepted publickey for devops from 192.168.56.118 port 48802 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 00:25:53 servera systemd[2116]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 13 00:25:53 servera sshd[2112]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 13 00:25:54 servera sudo[2262]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-skwowwqnoelbhpzkeetomuochlxngepw ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665609955.2255569-9756-53677127282825/AnsiballZ_stat.py
+Oct 13 00:25:54 servera sudo[2262]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 00:25:54 servera sudo[2262]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 13 00:25:54 servera sudo[2262]: pam_unix(sudo:session): session closed for user root
+Oct 13 00:25:54 servera sudo[2361]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-mxtuteqsgncrdllupuasrslvswzthasn ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665609955.2255569-9756-53677127282825/AnsiballZ_copy.py
+Oct 13 00:25:54 servera sudo[2361]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 00:25:54 servera sudo[2361]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 13 00:25:54 servera sudo[2361]: pam_unix(sudo:session): session closed for user root
+Oct 13 00:26:18 servera sudo[2521]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-lrkujwikcsuexfmmvdkcmyxfgiutyhny ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665609979.7324708-9816-24072876739189/AnsiballZ_stat.py
+Oct 13 00:26:18 servera sudo[2521]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 00:26:18 servera sudo[2521]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 13 00:26:19 servera sudo[2521]: pam_unix(sudo:session): session closed for user root
+Oct 13 00:26:19 servera sudo[2585]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dxvofxnquczefjacjkgjysntvszjvzdg ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665609979.7324708-9816-24072876739189/AnsiballZ_file.py
+Oct 13 00:26:19 servera sudo[2585]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 00:26:19 servera sudo[2585]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 13 00:26:19 servera sudo[2585]: pam_unix(sudo:session): session closed for user root
+Oct 13 00:27:19 servera sshd[2126]: Received disconnect from 192.168.56.118 port 48802:11: disconnected by user
+Oct 13 00:27:19 servera sshd[2126]: Disconnected from user devops 192.168.56.118 port 48802
+Oct 13 00:27:19 servera sshd[2112]: pam_unix(sshd:session): session closed for user devops
+Oct 13 00:27:29 servera systemd[2120]: pam_unix(systemd-user:session): session closed for user devops
+Oct 13 00:27:46 servera sshd[2615]: Accepted publickey for devops from 192.168.56.118 port 34752 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 00:27:46 servera systemd[2619]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 13 00:27:46 servera sshd[2615]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 13 00:29:37 servera sshd[2629]: Received disconnect from 192.168.56.118 port 34752:11: disconnected by user
+Oct 13 00:29:37 servera sshd[2629]: Disconnected from user devops 192.168.56.118 port 34752
+Oct 13 00:29:37 servera sshd[2615]: pam_unix(sshd:session): session closed for user devops
+Oct 13 00:29:48 servera systemd[2623]: pam_unix(systemd-user:session): session closed for user devops
+Oct 13 00:30:04 servera sshd[2946]: Accepted publickey for admin from 192.168.56.118 port 48248 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 00:30:04 servera systemd[2950]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 00:30:04 servera sshd[2946]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 00:31:05 servera sshd[2960]: Received disconnect from 192.168.56.118 port 48248:11: disconnected by user
+Oct 13 00:31:05 servera sshd[2960]: Disconnected from user admin 192.168.56.118 port 48248
+Oct 13 00:31:05 servera sshd[2946]: pam_unix(sshd:session): session closed for user admin
+Oct 13 00:31:15 servera systemd[2954]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 17:06:01 servera sshd[751]: Server listening on 0.0.0.0 port 22.
+Oct 13 17:06:01 servera sshd[751]: Server listening on :: port 22.
+Oct 13 17:06:01 servera polkitd[744]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 13 17:06:01 servera polkitd[744]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 13 17:06:01 servera polkitd[744]: Finished loading, compiling and executing 2 rules
+Oct 13 17:06:01 servera polkitd[744]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 13 17:07:31 servera sshd[1276]: Accepted password for root from 192.168.56.118 port 43566 ssh2
+Oct 13 17:07:31 servera systemd[1281]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 13 17:07:31 servera sshd[1276]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 13 19:24:26 servera sshd[1394]: Accepted publickey for admin from 192.168.56.118 port 59654 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 19:24:26 servera systemd[1398]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 19:24:26 servera sshd[1394]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 19:25:27 servera sshd[1409]: Received disconnect from 192.168.56.118 port 59654:11: disconnected by user
+Oct 13 19:25:27 servera sshd[1409]: Disconnected from user admin 192.168.56.118 port 59654
+Oct 13 19:25:27 servera sshd[1394]: pam_unix(sshd:session): session closed for user admin
+Oct 13 19:25:37 servera systemd[1403]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 21:09:22 servera sshd[1613]: Accepted publickey for admin from 192.168.56.118 port 44374 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 21:09:22 servera systemd[1617]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 21:09:22 servera sshd[1613]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 21:09:23 servera sudo[1764]:   admin : a password is required ; TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-fqlbkokudbgnajrrblcnitrbykiamqaa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694644.0961316-6997-104674176480848/AnsiballZ_setup.py
+Oct 13 21:10:23 servera sshd[1628]: Received disconnect from 192.168.56.118 port 44374:11: disconnected by user
+Oct 13 21:10:23 servera sshd[1628]: Disconnected from user admin 192.168.56.118 port 44374
+Oct 13 21:10:23 servera sshd[1613]: pam_unix(sshd:session): session closed for user admin
+Oct 13 21:10:33 servera systemd[1622]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 21:11:38 servera sshd[1790]: Accepted publickey for admin from 192.168.56.118 port 35106 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 21:11:38 servera systemd[1794]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 21:11:38 servera sshd[1790]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 21:11:39 servera sudo[1940]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-lknkatomdoopwgrdyiomaisafqxtvyps ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694780.6382523-7079-230756145869150/AnsiballZ_setup.py
+Oct 13 21:11:39 servera sudo[1940]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:39 servera sudo[1940]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:40 servera sudo[1940]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:11:41 servera sudo[2097]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-gntubrnrutlypjquezhzkslemcjuoxmc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694782.8299823-7093-5457546432136/AnsiballZ_dnf.py
+Oct 13 21:11:41 servera sudo[2097]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:41 servera sudo[2097]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:47 servera groupadd[2122]: group added to /etc/group: name=apache, GID=48
+Oct 13 21:11:47 servera groupadd[2122]: group added to /etc/gshadow: name=apache
+Oct 13 21:11:47 servera groupadd[2122]: new group: name=apache, GID=48
+Oct 13 21:11:48 servera useradd[2130]: new user: name=apache, UID=48, GID=48, home=/usr/share/httpd, shell=/sbin/nologin
+Oct 13 21:11:51 servera sudo[2097]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:11:52 servera sudo[2470]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cciuiyastemvhxidmayxrwtksugbbsnp ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694793.2172182-7110-8021692550973/AnsiballZ_stat.py
+Oct 13 21:11:52 servera sudo[2470]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:52 servera sudo[2470]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:52 servera sudo[2470]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:11:52 servera sudo[2714]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-sdqhtkuvxmvcknvewpfdwoxfqrpzjbbm ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694793.2172182-7110-8021692550973/AnsiballZ_copy.py
+Oct 13 21:11:52 servera sudo[2714]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:52 servera sudo[2714]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:52 servera sudo[2714]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:11:53 servera sudo[3138]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-atariexgmkluyeozvxejlqwjlcfstapc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694794.5875146-7126-159867580054800/AnsiballZ_systemd.py
+Oct 13 21:11:53 servera sudo[3138]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:53 servera sudo[3138]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:54 servera sudo[3138]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:11:55 servera sudo[3470]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rpkfmjiumifukkjcjomstnouugdnfeeg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694796.210359-7135-109601521509760/AnsiballZ_firewalld.py
+Oct 13 21:11:55 servera sudo[3470]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:55 servera sudo[3470]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:55 servera sudo[3470]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:11:56 servera sudo[3776]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ojahlteletgmsrqrvrfqxauncdvwvnds ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694797.745135-7144-192441544832478/AnsiballZ_systemd.py
+Oct 13 21:11:56 servera sudo[3776]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:11:56 servera sudo[3776]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:11:57 servera sudo[3776]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:12:54 servera sudo[11771]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-lxlpenuckxyfgmczreijdtxzvvnfhctf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694855.7889771-7618-6943056249737/AnsiballZ_setup.py
+Oct 13 21:12:54 servera sudo[11771]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:12:54 servera sudo[11771]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:12:55 servera sudo[11771]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:12:56 servera sudo[11928]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-jryhrdszlphkzakyyhfolbhcjirabfkp ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694857.3718808-7629-49325067445581/AnsiballZ_dnf.py
+Oct 13 21:12:56 servera sudo[11928]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:12:56 servera sudo[11928]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:12:57 servera sudo[11928]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:12:57 servera sudo[12050]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-uvvijbdtxehtbrfarzlrinmsdnjpgxur ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694858.9943829-7638-43628532429074/AnsiballZ_stat.py
+Oct 13 21:12:57 servera sudo[12050]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:12:57 servera sudo[12050]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:12:57 servera sudo[12050]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:12:58 servera sudo[12116]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-htfieuuhqimzvfalaynfshuvvdizwgie ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694858.9943829-7638-43628532429074/AnsiballZ_file.py
+Oct 13 21:12:58 servera sudo[12116]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:12:58 servera sudo[12116]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:12:58 servera sudo[12116]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:12:59 servera sudo[12238]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-idhymgmvrripznjywrhafitthiqulfjg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694860.1945665-7651-274902066264634/AnsiballZ_systemd.py
+Oct 13 21:12:59 servera sudo[12238]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:12:59 servera sudo[12238]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:12:59 servera sudo[12238]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:12:59 servera sudo[12364]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-nivtisoadaqjyvyrtplhrvodfhzcudne ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694861.0921052-7660-20228481051646/AnsiballZ_firewalld.py
+Oct 13 21:12:59 servera sudo[12364]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:12:59 servera sudo[12364]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:13:00 servera sudo[12364]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:13:00 servera sudo[12486]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ptvkvczsiecapzzhyjukxudxfilahyle ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665694861.9530873-7684-40692188354396/AnsiballZ_systemd.py
+Oct 13 21:13:00 servera sudo[12486]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:13:00 servera sudo[12486]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:13:00 servera sudo[12486]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:14:01 servera sshd[1804]: Received disconnect from 192.168.56.118 port 35106:11: disconnected by user
+Oct 13 21:14:01 servera sshd[1804]: Disconnected from user admin 192.168.56.118 port 35106
+Oct 13 21:14:01 servera sshd[1790]: pam_unix(sshd:session): session closed for user admin
+Oct 13 21:16:35 servera sshd[12522]: Accepted publickey for admin from 192.168.56.118 port 52736 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 21:16:35 servera systemd[12526]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 21:16:35 servera sshd[12522]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 21:16:36 servera sudo[12672]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ssijganadaxhzhzehlkavnktubeeromv ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695077.3289542-8257-89261212960118/AnsiballZ_setup.py
+Oct 13 21:16:36 servera sudo[12672]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:36 servera sudo[12672]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:37 servera sudo[12672]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:16:37 servera sudo[12829]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-shlgofhslpbcpsqiswprfualuqgarfaa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695078.9229126-8271-2221828772315/AnsiballZ_dnf.py
+Oct 13 21:16:37 servera sudo[12829]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:37 servera sudo[12829]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:38 servera sudo[12829]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:16:39 servera sudo[12951]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dfrepdariqaduzhgymlivalbcxeqpnue ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695080.3704557-8280-155646680543492/AnsiballZ_stat.py
+Oct 13 21:16:39 servera sudo[12951]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:39 servera sudo[12951]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:39 servera sudo[12951]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:16:39 servera sudo[13017]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ujeczoosygzunpzfnxepacdjzoyrqumw ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695080.3704557-8280-155646680543492/AnsiballZ_file.py
+Oct 13 21:16:39 servera sudo[13017]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:39 servera sudo[13017]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:39 servera sudo[13017]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:16:40 servera sudo[13139]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ovhmzgbifirswvyqpirfbjqjmxxmdoii ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695081.5241706-8293-186691697489136/AnsiballZ_systemd.py
+Oct 13 21:16:40 servera sudo[13139]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:40 servera sudo[13139]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:40 servera sudo[13139]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:16:41 servera sudo[13265]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-yotcmcoehxaztwqxyaiiajasrqpbvjqv ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695082.321605-8302-117293064216548/AnsiballZ_firewalld.py
+Oct 13 21:16:41 servera sudo[13265]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:41 servera sudo[13265]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:41 servera sudo[13265]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:16:41 servera sudo[13387]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-nnpcvvywjjasxcrieppvbxsdqztkultm ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695083.1816547-8311-20101664201410/AnsiballZ_systemd.py
+Oct 13 21:16:41 servera sudo[13387]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:16:41 servera sudo[13387]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:16:42 servera sudo[13387]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:17:42 servera sshd[12536]: Received disconnect from 192.168.56.118 port 52736:11: disconnected by user
+Oct 13 21:17:42 servera sshd[12536]: Disconnected from user admin 192.168.56.118 port 52736
+Oct 13 21:17:42 servera sshd[12522]: pam_unix(sshd:session): session closed for user admin
+Oct 13 21:17:52 servera systemd[12530]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 21:21:30 servera sshd[13425]: Accepted publickey for admin from 192.168.56.118 port 51816 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 21:21:30 servera systemd[13429]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 21:21:30 servera sshd[13425]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 21:21:31 servera sudo[13575]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-xwlqrqzezvlceubogdyablxtlxmykfep ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695372.5219884-8868-77570957637735/AnsiballZ_setup.py
+Oct 13 21:21:31 servera sudo[13575]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:31 servera sudo[13575]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:32 servera sudo[13575]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:32 servera sudo[13732]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dhgkqdiqdgkpaufwreqjqxxuqneftccl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695374.20577-8882-83759215129959/AnsiballZ_dnf.py
+Oct 13 21:21:32 servera sudo[13732]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:32 servera sudo[13732]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:34 servera sudo[13732]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:34 servera sudo[13854]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-tuxeccafenlynfyrccsvyxhljpqsqisc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695375.8877854-8891-240832371707753/AnsiballZ_stat.py
+Oct 13 21:21:34 servera sudo[13854]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:34 servera sudo[13854]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:34 servera sudo[13854]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:35 servera sudo[13920]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-hgicbhomefjpvigxnrtcwhyfkwztelxi ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695375.8877854-8891-240832371707753/AnsiballZ_file.py
+Oct 13 21:21:35 servera sudo[13920]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:35 servera sudo[13920]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:35 servera sudo[13920]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:36 servera sudo[14042]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-gqomlesvjmluvtvznllgtxlxynontfcl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695377.2408128-8904-195433282890129/AnsiballZ_systemd.py
+Oct 13 21:21:36 servera sudo[14042]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:36 servera sudo[14042]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:36 servera sudo[14042]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:36 servera sudo[14168]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-oedbmxgxtxvikwakaxsirisihgvrbwfk ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695378.16797-8913-255093792050768/AnsiballZ_firewalld.py
+Oct 13 21:21:36 servera sudo[14168]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:36 servera sudo[14168]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:37 servera sudo[14168]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:37 servera sudo[14290]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-hvrfzsenvuwwgkilsrpihpxkkjzodrgf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695379.1299767-8922-272626924117632/AnsiballZ_systemd.py
+Oct 13 21:21:37 servera sudo[14290]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:21:37 servera sudo[14290]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:21:38 servera sudo[14290]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:21:55 servera sudo[14453]:   admin : a password is required ; TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ikjusxollzhkhqrtnslfpoumyseyjthc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695396.8581667-9391-172286924244307/AnsiballZ_setup.py
+Oct 13 21:22:32 servera su[14472]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:22:32 servera su[14472]: pam_unix(su-l:session): session opened for user admin by root(uid=0)
+Oct 13 21:22:53 servera sudo[14500]: pam_unix(sudo:auth): conversation failed
+Oct 13 21:22:53 servera sudo[14500]: pam_unix(sudo:auth): auth could not identify password for [admin]
+Oct 13 21:22:55 servera sshd[13439]: Received disconnect from 192.168.56.118 port 51816:11: disconnected by user
+Oct 13 21:22:55 servera sshd[13439]: Disconnected from user admin 192.168.56.118 port 51816
+Oct 13 21:22:55 servera sshd[13425]: pam_unix(sshd:session): session closed for user admin
+Oct 13 21:22:56 servera su[14472]: pam_unix(su-l:session): session closed for user admin
+Oct 13 21:23:05 servera systemd[13433]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 21:23:52 servera su[14512]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:23:52 servera su[14512]: pam_unix(su-l:session): session opened for user admin by root(uid=0)
+Oct 13 21:23:57 servera sudo[14540]:   admin : TTY=pts/0 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/cat /etc/passwd
+Oct 13 21:23:57 servera sudo[14540]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:23:57 servera sudo[14540]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Oct 13 21:23:57 servera sudo[14540]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:05 servera sshd[14543]: Accepted publickey for admin from 192.168.56.118 port 36448 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 13 21:24:05 servera systemd[14547]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 13 21:24:05 servera sshd[14543]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 13 21:24:06 servera sudo[14693]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ppmdnewwgnlundaydfwwtnplfhcxdnik ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695527.2508307-9449-10821850773833/AnsiballZ_setup.py
+Oct 13 21:24:06 servera sudo[14693]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:06 servera sudo[14693]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:07 servera sudo[14693]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:07 servera sudo[14848]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-qxsjmmtgystfsfmbzvfqltbzszvagojr ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695528.8836367-9463-63374356755628/AnsiballZ_dnf.py
+Oct 13 21:24:07 servera sudo[14848]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:07 servera sudo[14848]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:08 servera sudo[14848]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:09 servera sudo[14968]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-vivmefigfhzebmpmvjfqzszipzaafyzh ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695530.4110336-9472-226605029604112/AnsiballZ_stat.py
+Oct 13 21:24:09 servera sudo[14968]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:09 servera sudo[14968]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:09 servera sudo[14968]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:09 servera sudo[15032]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-aaixiocydelouyysrrrasghrirqrbgtz ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695530.4110336-9472-226605029604112/AnsiballZ_file.py
+Oct 13 21:24:09 servera sudo[15032]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:09 servera sudo[15032]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:09 servera sudo[15032]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:10 servera sudo[15152]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-xcoegzkssoprqvszbzjjlbsldegwczle ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695531.5094604-9485-259222052124126/AnsiballZ_systemd.py
+Oct 13 21:24:10 servera sudo[15152]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:10 servera sudo[15152]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:10 servera sudo[15152]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:11 servera sudo[15276]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-kqkuvxknuesnonjoluygskxlbauqqfpj ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695532.3793595-9494-248444115674968/AnsiballZ_firewalld.py
+Oct 13 21:24:11 servera sudo[15276]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:11 servera sudo[15276]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:11 servera sudo[15276]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:11 servera sudo[15396]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-fzgobddbhsrollyhbyrhubkqgbzycfnn ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695533.3354547-9503-69276848814781/AnsiballZ_systemd.py
+Oct 13 21:24:12 servera sudo[15396]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:12 servera sudo[15396]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:12 servera sudo[15396]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:29 servera sudo[15557]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-mneagulwafdktvtqltgwliaazkqeefgv ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695550.4724555-9957-33721245648910/AnsiballZ_setup.py
+Oct 13 21:24:29 servera sudo[15557]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:29 servera sudo[15557]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:30 servera sudo[15557]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:30 servera sudo[15712]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-lxcafeixxmnupgspyjozbkmanvbcumpf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695552.181445-9968-240725837005463/AnsiballZ_dnf.py
+Oct 13 21:24:30 servera sudo[15712]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:30 servera sudo[15712]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:31 servera sudo[15712]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:32 servera sudo[15832]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-unugcmffgulioqahfiimhzaufguwrimy ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695553.5481625-9977-248854948785415/AnsiballZ_stat.py
+Oct 13 21:24:32 servera sudo[15832]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:32 servera sudo[15832]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:32 servera sudo[15832]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:32 servera sudo[15896]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-fdjymglaaklwqxpuaypyodpeiizmlktt ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695553.5481625-9977-248854948785415/AnsiballZ_file.py
+Oct 13 21:24:32 servera sudo[15896]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:32 servera sudo[15896]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:32 servera sudo[15896]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:33 servera sudo[16016]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ewngwlxgzipolwqkpnlclactvqewsjgm ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695554.7312617-9990-211821134443594/AnsiballZ_systemd.py
+Oct 13 21:24:33 servera sudo[16016]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:33 servera sudo[16016]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:33 servera sudo[16016]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:34 servera sudo[16140]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-xpaccwgqnbghirqslgfafwkrkhupyues ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695555.5474992-9999-170053192087839/AnsiballZ_firewalld.py
+Oct 13 21:24:34 servera sudo[16140]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:34 servera sudo[16140]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:34 servera sudo[16140]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:24:35 servera sudo[16260]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-yxsdesnjbeojctucblkmghxskvehvrkm ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665695556.5015433-10008-90264886556035/AnsiballZ_systemd.py
+Oct 13 21:24:35 servera sudo[16260]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 13 21:24:35 servera sudo[16260]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 13 21:24:35 servera sudo[16260]: pam_unix(sudo:session): session closed for user root
+Oct 13 21:25:35 servera sshd[14557]: Received disconnect from 192.168.56.118 port 36448:11: disconnected by user
+Oct 13 21:25:35 servera sshd[14557]: Disconnected from user admin 192.168.56.118 port 36448
+Oct 13 21:25:35 servera sshd[14543]: pam_unix(sshd:session): session closed for user admin
+Oct 13 21:25:45 servera systemd[14551]: pam_unix(systemd-user:session): session closed for user admin
+Oct 13 22:54:06 servera su[14512]: pam_unix(su-l:session): session closed for user admin
+Oct 14 22:02:22 servera polkitd[763]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 14 22:02:22 servera polkitd[763]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 14 22:02:22 servera polkitd[763]: Finished loading, compiling and executing 2 rules
+Oct 14 22:02:22 servera polkitd[763]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 14 22:02:23 servera sshd[798]: Server listening on 0.0.0.0 port 22.
+Oct 14 22:02:23 servera sshd[798]: Server listening on :: port 22.
+Oct 14 22:04:08 servera sshd[1581]: Accepted password for root from 192.168.56.118 port 59710 ssh2
+Oct 14 22:04:08 servera systemd[1586]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 14 22:04:08 servera sshd[1581]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 14 23:20:23 servera sshd[1674]: Accepted publickey for admin from 192.168.56.118 port 48164 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 14 23:20:23 servera systemd[1678]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 14 23:20:23 servera sshd[1674]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 14 23:20:24 servera sudo[1825]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-vwojkgcmrtykufwdmppxdudwluzvvirh ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860859.949061-4331-34893369676628/AnsiballZ_ping.py
+Oct 14 23:20:24 servera sudo[1825]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:20:24 servera sudo[1825]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:20:24 servera sudo[1825]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:20:39 servera sudo[1982]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-wefgegtzuwyjukmohdjnpryqpduouyer ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860875.316294-4601-235072079536378/AnsiballZ_ping.py
+Oct 14 23:20:39 servera sudo[1982]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:20:39 servera sudo[1982]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:20:39 servera sudo[1982]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:20:54 servera sshd[2004]: Accepted publickey for devops from 192.168.56.118 port 53654 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 14 23:20:54 servera systemd[2008]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 14 23:20:54 servera sshd[2004]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 14 23:20:54 servera sudo[2154]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-lumcvevdehgrljymbagkrxlxvkxysjcn ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665860890.2432175-4626-37650080437239/AnsiballZ_ping.py
+Oct 14 23:20:54 servera sudo[2154]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:20:54 servera sudo[2154]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 14 23:20:54 servera sudo[2154]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:21:39 servera sshd[1689]: Received disconnect from 192.168.56.118 port 48164:11: disconnected by user
+Oct 14 23:21:39 servera sshd[1689]: Disconnected from user admin 192.168.56.118 port 48164
+Oct 14 23:21:39 servera sshd[1674]: pam_unix(sshd:session): session closed for user admin
+Oct 14 23:21:50 servera systemd[1683]: pam_unix(systemd-user:session): session closed for user admin
+Oct 14 23:21:54 servera sshd[2018]: Received disconnect from 192.168.56.118 port 53654:11: disconnected by user
+Oct 14 23:21:54 servera sshd[2018]: Disconnected from user devops 192.168.56.118 port 53654
+Oct 14 23:21:54 servera sshd[2004]: pam_unix(sshd:session): session closed for user devops
+Oct 14 23:21:58 servera sshd[2184]: Accepted publickey for admin from 192.168.56.118 port 57242 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 14 23:21:58 servera systemd[2188]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 14 23:21:58 servera sshd[2184]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 14 23:21:59 servera sudo[2334]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-tffxmqngzrlqiwlqtweuikcaqpsdzjyp ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860954.849449-4714-146682090624453/AnsiballZ_setup.py
+Oct 14 23:21:59 servera sudo[2334]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:21:59 servera sudo[2334]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:05 servera systemd[2012]: pam_unix(systemd-user:session): session closed for user devops
+Oct 14 23:22:05 servera sudo[2334]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:06 servera sudo[2494]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-iykdeqmmmfhcvlgczzzftaptcsktaaug ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860961.794642-4729-259124837580503/AnsiballZ_dnf.py
+Oct 14 23:22:06 servera sudo[2494]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:06 servera sudo[2494]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:10 servera sudo[2494]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:10 servera sudo[2626]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-glgbhqprrxmxexthipjyfuiyunfewhqa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860966.4012282-4738-258730750578364/AnsiballZ_systemd.py
+Oct 14 23:22:10 servera sudo[2626]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:10 servera sudo[2626]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:11 servera sudo[2626]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:11 servera sudo[2750]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rwwhzimpzsrbhhkicjxsmbduqmtenvea ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860967.2021742-4756-117442368731314/AnsiballZ_systemd.py
+Oct 14 23:22:11 servera sudo[2750]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:11 servera sudo[2750]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:11 servera sudo[2750]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:12 servera sudo[2874]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-qmchepemvlhqytpjbfzyaverzkdyfofa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860967.8767118-4766-190307143098569/AnsiballZ_stat.py
+Oct 14 23:22:12 servera sudo[2874]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:12 servera sudo[2874]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:12 servera sudo[2874]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:12 servera sudo[2973]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-pqqszrsdoajvjzuppegimcaemuucrphx ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860967.8767118-4766-190307143098569/AnsiballZ_copy.py
+Oct 14 23:22:12 servera sudo[2973]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:12 servera sudo[2973]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:12 servera sudo[2973]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:13 servera sudo[3095]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-otgoxckzowtgnqcjybxaoxelgikgsntt ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860969.0460887-4782-247993788407263/AnsiballZ_firewalld.py
+Oct 14 23:22:13 servera sudo[3095]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:13 servera sudo[3095]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:13 servera sudo[3095]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:31 servera sudo[3252]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-snomjyjqwvyxbgxgbsknpntkmssujfhc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860986.8084657-5237-9846274665659/AnsiballZ_setup.py
+Oct 14 23:22:31 servera sudo[3252]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:31 servera sudo[3252]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:31 servera sudo[3252]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:32 servera sudo[3407]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-mlhkmwtoqmhnohrcccliggtuvnqhieol ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860988.170013-5248-12512719568780/AnsiballZ_dnf.py
+Oct 14 23:22:32 servera sudo[3407]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:32 servera sudo[3407]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:33 servera sudo[3407]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:33 servera sudo[3527]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ovnllcsvoawrxnijyybaimjggfzysfnd ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860989.4454026-5257-140639506991052/AnsiballZ_systemd.py
+Oct 14 23:22:33 servera sudo[3527]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:33 servera sudo[3527]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:34 servera sudo[3527]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:34 servera sudo[3651]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-fzdpehjbcbnabbtiajizmrnvtykmwkjr ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860990.1677313-5266-254296119171028/AnsiballZ_systemd.py
+Oct 14 23:22:34 servera sudo[3651]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:34 servera sudo[3651]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:34 servera sudo[3651]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:35 servera sudo[3775]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rmvzijuwljgmunxdpxotjlrtlaodqbbr ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860990.833605-5275-164023850593937/AnsiballZ_stat.py
+Oct 14 23:22:35 servera sudo[3775]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:35 servera sudo[3775]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:35 servera sudo[3775]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:35 servera sudo[3839]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ybibsxyzttilaqqupydxxmarcbjeiqng ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860990.833605-5275-164023850593937/AnsiballZ_file.py
+Oct 14 23:22:35 servera sudo[3839]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:35 servera sudo[3839]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:35 servera sudo[3839]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:22:36 servera sudo[3959]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-jkjxvuznvfroueyctlmntnvwrqynvevc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665860991.8299186-5288-163968995686057/AnsiballZ_firewalld.py
+Oct 14 23:22:36 servera sudo[3959]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 14 23:22:36 servera sudo[3959]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 14 23:22:36 servera sudo[3959]: pam_unix(sudo:session): session closed for user root
+Oct 14 23:23:36 servera sshd[2198]: Received disconnect from 192.168.56.118 port 57242:11: disconnected by user
+Oct 14 23:23:36 servera sshd[2198]: Disconnected from user admin 192.168.56.118 port 57242
+Oct 14 23:23:36 servera sshd[2184]: pam_unix(sshd:session): session closed for user admin
+Oct 14 23:23:46 servera systemd[2192]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 00:42:25 servera su[4022]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 15 00:42:25 servera su[4022]: pam_unix(su-l:session): session opened for user devops by root(uid=0)
+Oct 15 00:42:32 servera sudo[4050]:  devops : TTY=pts/0 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/cat /etc/shadow
+Oct 15 00:42:32 servera sudo[4050]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 00:42:32 servera sudo[4050]: pam_unix(sudo:session): session opened for user root by root(uid=0)
+Oct 15 00:42:32 servera sudo[4050]: pam_unix(sudo:session): session closed for user root
+Oct 15 00:42:37 servera su[4022]: pam_unix(su-l:session): session closed for user devops
+Oct 15 00:51:24 servera sshd[4059]: Accepted publickey for admin from 192.168.56.118 port 45590 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 00:51:24 servera systemd[4063]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 00:51:24 servera sshd[4059]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 00:52:25 servera sshd[4074]: Received disconnect from 192.168.56.118 port 45590:11: disconnected by user
+Oct 15 00:52:25 servera sshd[4074]: Disconnected from user admin 192.168.56.118 port 45590
+Oct 15 00:52:25 servera sshd[4059]: pam_unix(sshd:session): session closed for user admin
+Oct 15 00:52:35 servera systemd[4068]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 00:57:11 servera sshd[4235]: Accepted publickey for devops from 192.168.56.118 port 41028 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 00:57:11 servera systemd[4239]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 00:57:11 servera sshd[4235]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 00:57:12 servera sudo[4385]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ldhizowdxdckyviglilrsoxqgqbsvyza ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665866667.7880523-6867-226599940480733/AnsiballZ_setup.py
+Oct 15 00:57:12 servera sudo[4385]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 00:57:12 servera sudo[4385]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 15 00:57:16 servera sudo[4385]: pam_unix(sudo:session): session closed for user root
+Oct 15 00:57:16 servera sudo[4540]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-flzhnafgcditberlfwfioqowfogspshh ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665866672.2550328-6890-42857127786292/AnsiballZ_user.py
+Oct 15 00:57:16 servera sudo[4540]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 00:57:16 servera sudo[4540]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 15 00:57:16 servera useradd[4546]: new group: name=ansibleuser1, GID=1002
+Oct 15 00:57:16 servera useradd[4546]: new user: name=ansibleuser1, UID=1002, GID=1002, home=/home/ansibleuser1, shell=/bin/bash
+Oct 15 00:57:17 servera sudo[4540]: pam_unix(sudo:session): session closed for user root
+Oct 15 00:57:42 servera sudo[4707]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dnreqmvisrcrzldehpsxlcrwwtnpbpsx ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665866697.9768662-6912-274476057474713/AnsiballZ_setup.py
+Oct 15 00:57:42 servera sudo[4707]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 00:57:42 servera sudo[4707]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 15 00:57:43 servera sudo[4707]: pam_unix(sudo:session): session closed for user root
+Oct 15 00:57:43 servera sudo[4862]:  devops : TTY=pts/1 ; PWD=/home/devops ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cxadvbdgnjgpfvltooefwwoumvzpetpr ; /usr/libexec/platform-python /home/devops/.ansible/tmp/ansible-tmp-1665866699.1313581-6923-77101366562187/AnsiballZ_user.py
+Oct 15 00:57:43 servera sudo[4862]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 00:57:43 servera sudo[4862]: pam_unix(sudo:session): session opened for user root by devops(uid=0)
+Oct 15 00:57:43 servera sudo[4862]: pam_unix(sudo:session): session closed for user root
+Oct 15 00:58:15 servera sshd[4887]: Accepted password for ansibleuser1 from 192.168.56.118 port 58496 ssh2
+Oct 15 00:58:15 servera systemd[4892]: pam_unix(systemd-user:session): session opened for user ansibleuser1 by (uid=0)
+Oct 15 00:58:15 servera sshd[4887]: pam_unix(sshd:session): session opened for user ansibleuser1 by (uid=0)
+Oct 15 00:58:18 servera sshd[4903]: Received disconnect from 192.168.56.118 port 58496:11: disconnected by user
+Oct 15 00:58:18 servera sshd[4903]: Disconnected from user ansibleuser1 192.168.56.118 port 58496
+Oct 15 00:58:18 servera sshd[4887]: pam_unix(sshd:session): session closed for user ansibleuser1
+Oct 15 00:58:28 servera systemd[4897]: pam_unix(systemd-user:session): session closed for user ansibleuser1
+Oct 15 00:58:43 servera sshd[4249]: Received disconnect from 192.168.56.118 port 41028:11: disconnected by user
+Oct 15 00:58:43 servera sshd[4249]: Disconnected from user devops 192.168.56.118 port 41028
+Oct 15 00:58:43 servera sshd[4235]: pam_unix(sshd:session): session closed for user devops
+Oct 15 00:59:51 servera sshd[4944]: Accepted publickey for devops from 192.168.56.118 port 42328 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 00:59:51 servera systemd[4948]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 00:59:51 servera sshd[4944]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 00:59:58 servera sshd[4958]: Received disconnect from 192.168.56.118 port 42328:11: disconnected by user
+Oct 15 00:59:58 servera sshd[4958]: Disconnected from user devops 192.168.56.118 port 42328
+Oct 15 00:59:58 servera sshd[4944]: pam_unix(sshd:session): session closed for user devops
+Oct 15 01:00:08 servera systemd[4952]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 01:01:16 servera su[5007]: pam_systemd(su-l:session): Cannot create session: Already running in a session or user slice
+Oct 15 01:01:16 servera su[5007]: pam_unix(su-l:session): session opened for user devops by root(uid=0)
+Oct 15 01:01:37 servera su[5007]: pam_unix(su-l:session): session closed for user devops
+Oct 15 02:43:40 servera sshd[5084]: Accepted publickey for admin from 192.168.56.118 port 42126 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 02:43:40 servera systemd[5088]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 02:43:40 servera sshd[5084]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 02:44:42 servera sshd[5099]: Received disconnect from 192.168.56.118 port 42126:11: disconnected by user
+Oct 15 02:44:42 servera sshd[5099]: Disconnected from user admin 192.168.56.118 port 42126
+Oct 15 02:44:42 servera sshd[5084]: pam_unix(sshd:session): session closed for user admin
+Oct 15 02:44:53 servera systemd[5093]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 02:47:44 servera sshd[5294]: Accepted publickey for admin from 192.168.56.118 port 51156 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 02:47:44 servera systemd[5298]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 02:47:44 servera sshd[5294]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 02:49:41 servera sshd[5308]: Received disconnect from 192.168.56.118 port 51156:11: disconnected by user
+Oct 15 02:49:41 servera sshd[5308]: Disconnected from user admin 192.168.56.118 port 51156
+Oct 15 02:49:41 servera sshd[5294]: pam_unix(sshd:session): session closed for user admin
+Oct 15 02:49:51 servera systemd[5302]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 02:54:50 servera sshd[5995]: Accepted publickey for admin from 192.168.56.118 port 45998 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 02:54:50 servera systemd[5999]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 02:54:50 servera sshd[5995]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 02:54:51 servera sudo[6145]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-zcuzxmnsluppmzyiprrgamemcstngqqx ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917101.4286551-8593-49266840629982/AnsiballZ_setup.py
+Oct 15 02:54:51 servera sudo[6145]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:54:51 servera sudo[6145]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:54:52 servera sudo[6145]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:54:52 servera sudo[6300]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rijtwvppflwjezyqcutssxluhznllhvi ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917103.077572-8608-24418396334080/AnsiballZ_file.py
+Oct 15 02:54:52 servera sudo[6300]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:54:52 servera sudo[6300]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:54:52 servera sudo[6300]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:54:53 servera sudo[6420]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ozcfpkmxmvaeijcrbpsgkpaasjaeonvx ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917103.6273587-8617-133526186110959/AnsiballZ_stat.py
+Oct 15 02:54:53 servera sudo[6420]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:54:53 servera sudo[6420]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:54:53 servera sudo[6420]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:54:53 servera sudo[6484]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-whejftqowaqbebwmoikbidraemkrxbbo ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917103.6273587-8617-133526186110959/AnsiballZ_stat.py
+Oct 15 02:54:53 servera sudo[6484]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:54:53 servera sudo[6484]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:54:53 servera sudo[6484]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:54:53 servera sudo[6581]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ipxjslmdchiqfppwydpiofagutzphzzj ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917103.6273587-8617-133526186110959/AnsiballZ_copy.py
+Oct 15 02:54:53 servera sudo[6581]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:54:53 servera sudo[6581]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:54:54 servera sudo[6581]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:54:59 servera sudo[6740]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cfolottvwebnekbuofbbonfenvmzgpnl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917109.8617258-8650-91889452832386/AnsiballZ_setup.py
+Oct 15 02:54:59 servera sudo[6740]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:54:59 servera sudo[6740]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:55:00 servera sudo[6740]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:55:00 servera sudo[6895]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-kepxzodrbbipwxdlekmufukobxkzvynx ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917111.1538289-8661-50934113397675/AnsiballZ_file.py
+Oct 15 02:55:00 servera sudo[6895]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:55:00 servera sudo[6895]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:55:00 servera sudo[6895]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:55:01 servera sudo[7015]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ggqgtihnrwcjivgwrrrxntkmuiwewzpa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917111.7096982-8670-194553098284466/AnsiballZ_stat.py
+Oct 15 02:55:01 servera sudo[7015]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:55:01 servera sudo[7015]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:55:01 servera sudo[7015]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:55:01 servera sudo[7079]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dsclujpwgcigmrrxmfrnydsiiryaqgkl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917111.7096982-8670-194553098284466/AnsiballZ_stat.py
+Oct 15 02:55:01 servera sudo[7079]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:55:01 servera sudo[7079]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:55:01 servera sudo[7079]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:55:01 servera sudo[7143]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rizwfqpadclfggcxfdfbcgatqdtgqtwc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917111.7096982-8670-194553098284466/AnsiballZ_file.py
+Oct 15 02:55:01 servera sudo[7143]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:55:01 servera sudo[7143]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:55:01 servera sudo[7143]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:55:38 servera sudo[7300]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cxnbioqoxezuxptgwrijkooglcvseknd ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917149.3545485-8708-273548542989264/AnsiballZ_command.py
+Oct 15 02:55:38 servera sudo[7300]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:55:38 servera sudo[7300]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:55:39 servera sudo[7300]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:56:01 servera sudo[7458]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cerifjjwjwhnwimkoghnihkpphinoaes ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917171.377832-8732-197129271567486/AnsiballZ_command.py
+Oct 15 02:56:01 servera sudo[7458]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:56:01 servera sudo[7458]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:56:01 servera sudo[7458]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:57:01 servera sshd[6009]: Received disconnect from 192.168.56.118 port 45998:11: disconnected by user
+Oct 15 02:57:01 servera sshd[6009]: Disconnected from user admin 192.168.56.118 port 45998
+Oct 15 02:57:01 servera sshd[5995]: pam_unix(sshd:session): session closed for user admin
+Oct 15 02:57:11 servera systemd[6003]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 02:57:36 servera sshd[7491]: Accepted publickey for admin from 192.168.56.118 port 37522 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 02:57:37 servera systemd[7495]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 02:57:37 servera sshd[7491]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 02:57:37 servera sudo[7641]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ehfhwxsyryfbzpzldjkzebvnypisegsk ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917268.0354433-8794-136681713143556/AnsiballZ_command.py
+Oct 15 02:57:37 servera sudo[7641]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:57:37 servera sudo[7641]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:57:37 servera sudo[7641]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:58:37 servera sshd[7505]: Received disconnect from 192.168.56.118 port 37522:11: disconnected by user
+Oct 15 02:58:37 servera sshd[7505]: Disconnected from user admin 192.168.56.118 port 37522
+Oct 15 02:58:37 servera sshd[7491]: pam_unix(sshd:session): session closed for user admin
+Oct 15 02:58:48 servera systemd[7499]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 02:59:42 servera sshd[7670]: Accepted publickey for admin from 192.168.56.118 port 33080 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 02:59:42 servera systemd[7674]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 02:59:42 servera sshd[7670]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 02:59:42 servera sudo[7820]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-whsqtdzxitynksowkwsxxuufdopzbgif ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917393.1980462-8976-185301316675395/AnsiballZ_command.py
+Oct 15 02:59:42 servera sudo[7820]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:59:42 servera sudo[7820]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:59:44 servera sudo[7820]: pam_unix(sudo:session): session closed for user root
+Oct 15 02:59:53 servera sudo[8001]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-bhvqpoeydxmmzrbnporvgswremvthorr ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917404.0941556-9004-184190436256127/AnsiballZ_command.py
+Oct 15 02:59:53 servera sudo[8001]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 02:59:53 servera sudo[8001]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 02:59:53 servera sudo[8001]: pam_unix(sudo:session): session closed for user root
+Oct 15 03:00:14 servera sudo[8159]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rzsbknvefhazeyozlkydvdlvczhkbvsy ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917424.7772226-9040-52246708924386/AnsiballZ_setup.py
+Oct 15 03:00:14 servera sudo[8159]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 03:00:14 servera sudo[8159]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 03:00:15 servera sudo[8159]: pam_unix(sudo:session): session closed for user root
+Oct 15 03:00:15 servera sudo[8314]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-baqhggbdpwkckzjkkfjoygynumwwxoer ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917426.0808756-9051-58069682329584/AnsiballZ_dnf.py
+Oct 15 03:00:15 servera sudo[8314]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 03:00:15 servera sudo[8314]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 03:00:16 servera sudo[8314]: pam_unix(sudo:session): session closed for user root
+Oct 15 03:00:17 servera sudo[8434]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-axksvcpvdbiutxcppkljsnhsbrbazcbt ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917427.847789-9068-185185622174818/AnsiballZ_systemd.py
+Oct 15 03:00:17 servera sudo[8434]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 03:00:17 servera sudo[8434]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 03:00:17 servera sudo[8434]: pam_unix(sudo:session): session closed for user root
+Oct 15 03:00:52 servera sudo[8832]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-afofnfbqrjsrwlbrtznhlbpjvdefzwbp ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665917463.106028-9104-9787379290704/AnsiballZ_command.py
+Oct 15 03:00:52 servera sudo[8832]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 03:00:52 servera sudo[8832]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 03:00:53 servera sudo[8832]: pam_unix(sudo:session): session closed for user root
+Oct 15 03:01:53 servera sshd[7684]: Received disconnect from 192.168.56.118 port 33080:11: disconnected by user
+Oct 15 03:01:53 servera sshd[7684]: Disconnected from user admin 192.168.56.118 port 33080
+Oct 15 03:01:53 servera sshd[7670]: pam_unix(sshd:session): session closed for user admin
+Oct 15 03:02:03 servera systemd[7678]: pam_unix(systemd-user:session): session closed for user admin
+Oct 15 06:28:13 servera sshd[8967]: Accepted publickey for admin from 192.168.56.118 port 43690 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:28:13 servera systemd[8972]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 06:28:13 servera sshd[8967]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 06:28:14 servera sudo[9118]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-mtanvfetxpjculakigvkeaxaktdcoqte ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957542.4431071-11113-160600303377615/AnsiballZ_setup.py
+Oct 15 06:28:14 servera sudo[9118]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:28:14 servera sudo[9118]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:28:15 servera sudo[9118]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:28:16 servera sudo[9273]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ghrybnxawfmgthscjgyeilrtnmbozgdg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957544.3525577-11128-279224232265435/AnsiballZ_dnf.py
+Oct 15 06:28:16 servera sudo[9273]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:28:16 servera sudo[9273]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:28:43 servera groupadd[9339]: group added to /etc/group: name=mysql, GID=27
+Oct 15 06:28:43 servera groupadd[9339]: group added to /etc/gshadow: name=mysql
+Oct 15 06:28:43 servera groupadd[9339]: new group: name=mysql, GID=27
+Oct 15 06:28:44 servera useradd[9345]: new user: name=mysql, UID=27, GID=27, home=/var/lib/mysql, shell=/sbin/nologin
+Oct 15 06:28:49 servera sudo[9273]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:28:50 servera sudo[10009]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-llwgzwfpbfizjfqnpwsiqruxcqosmrhh ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957578.6517458-11128-227812594570622/AnsiballZ_dnf.py
+Oct 15 06:28:50 servera sudo[10009]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:28:50 servera sudo[10009]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:28:51 servera sudo[10009]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:28:52 servera sudo[10489]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-tuyasqmpakhkewfosvncvrsejgbfbncl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957580.2540762-11152-79046875920444/AnsiballZ_systemd.py
+Oct 15 06:28:52 servera sudo[10489]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:28:52 servera sudo[10489]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:28:56 servera sudo[10489]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:29:56 servera sshd[8982]: Received disconnect from 192.168.56.118 port 43690:11: disconnected by user
+Oct 15 06:29:56 servera sshd[8982]: Disconnected from user admin 192.168.56.118 port 43690
+Oct 15 06:29:56 servera sshd[8967]: pam_unix(sshd:session): session closed for user admin
+Oct 15 06:30:32 servera sshd[12426]: Accepted publickey for admin from 192.168.56.118 port 46528 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:30:33 servera systemd[12430]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 06:30:33 servera sshd[12426]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 06:30:33 servera sudo[12576]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rsfqtooarayqfrijfzcyqomezkicdvqr ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957681.797371-11206-65296847606154/AnsiballZ_setup.py
+Oct 15 06:30:33 servera sudo[12576]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:30:33 servera sudo[12576]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:30:34 servera sudo[12576]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:30:35 servera sudo[12731]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-wtrtigbneowauakoqoqjymtgvikrrgie ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957683.3515854-11221-250639236720530/AnsiballZ_dnf.py
+Oct 15 06:30:35 servera sudo[12731]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:30:35 servera sudo[12731]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:30:36 servera sudo[12731]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:30:36 servera sudo[12851]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cayywtbjybesiaukauvucufgeciduuim ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957684.768276-11221-180187417735161/AnsiballZ_dnf.py
+Oct 15 06:30:36 servera sudo[12851]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:30:36 servera sudo[12851]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:30:37 servera sudo[12851]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:30:38 servera sudo[12971]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-xkzpyobtpfaxclgqbwssmxivhvbrtwet ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665957686.2210343-11237-106593376131059/AnsiballZ_systemd.py
+Oct 15 06:30:38 servera sudo[12971]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:30:38 servera sudo[12971]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:30:38 servera sudo[12971]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:31:38 servera sshd[12440]: Received disconnect from 192.168.56.118 port 46528:11: disconnected by user
+Oct 15 06:31:38 servera sshd[12440]: Disconnected from user admin 192.168.56.118 port 46528
+Oct 15 06:31:38 servera sshd[12426]: pam_unix(sshd:session): session closed for user admin
+Oct 15 06:52:14 servera sshd[13010]: Accepted publickey for devops from 192.168.56.118 port 35472 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:52:14 servera systemd[13015]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 06:52:14 servera sshd[13010]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 06:52:14 servera sshd[13025]: Received disconnect from 192.168.56.118 port 35472:11: disconnected by user
+Oct 15 06:52:14 servera sshd[13025]: Disconnected from user devops 192.168.56.118 port 35472
+Oct 15 06:52:14 servera sshd[13010]: pam_unix(sshd:session): session closed for user devops
+Oct 15 06:52:25 servera systemd[13019]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 06:53:08 servera sshd[13050]: Accepted publickey for devops from 192.168.56.118 port 49222 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:53:08 servera systemd[13054]: pam_unix(systemd-user:session): session opened for user devops by (uid=0)
+Oct 15 06:53:08 servera sshd[13050]: pam_unix(sshd:session): session opened for user devops by (uid=0)
+Oct 15 06:53:08 servera sshd[13064]: Received disconnect from 192.168.56.118 port 49222:11: disconnected by user
+Oct 15 06:53:08 servera sshd[13064]: Disconnected from user devops 192.168.56.118 port 49222
+Oct 15 06:53:08 servera sshd[13050]: pam_unix(sshd:session): session closed for user devops
+Oct 15 06:53:18 servera systemd[13058]: pam_unix(systemd-user:session): session closed for user devops
+Oct 15 06:58:37 servera sshd[13091]: Accepted publickey for admin from 192.168.56.118 port 33614 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 15 06:58:37 servera systemd[13095]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 15 06:58:37 servera sshd[13091]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 15 06:58:38 servera sudo[13242]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-mqnbaaupouqjdxhonvheeqxijdaawfuo ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959366.299738-12107-120983132184952/AnsiballZ_setup.py
+Oct 15 06:58:38 servera sudo[13242]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:58:38 servera sudo[13242]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:58:39 servera sudo[13242]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:58:39 servera sudo[13397]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-kueyknfoffdvjnrtpaitaxnvuhuymihk ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959368.312672-12122-90744867385578/AnsiballZ_dnf.py
+Oct 15 06:58:39 servera sudo[13397]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:58:39 servera sudo[13397]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:58:40 servera sudo[13397]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:58:41 servera sudo[13517]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dvnfgxwranmojupvypydzkzmjjophway ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959369.6983645-12122-77925808584724/AnsiballZ_dnf.py
+Oct 15 06:58:41 servera sudo[13517]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:58:41 servera sudo[13517]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:58:42 servera sudo[13517]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:58:42 servera sudo[13637]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-jvcxsmjyuwplsazaofzhcwfkzkegchku ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1665959371.0672135-12138-240028523577978/AnsiballZ_systemd.py
+Oct 15 06:58:42 servera sudo[13637]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 15 06:58:42 servera sudo[13637]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 15 06:58:43 servera sudo[13637]: pam_unix(sudo:session): session closed for user root
+Oct 15 06:59:43 servera sshd[13106]: Received disconnect from 192.168.56.118 port 33614:11: disconnected by user
+Oct 15 06:59:43 servera sshd[13106]: Disconnected from user admin 192.168.56.118 port 33614
+Oct 15 06:59:43 servera sshd[13091]: pam_unix(sshd:session): session closed for user admin
+Oct 15 06:59:53 servera systemd[13100]: pam_unix(systemd-user:session): session closed for user admin
+Oct 17 17:00:30 servera polkitd[751]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 17 17:00:30 servera polkitd[751]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 17 17:00:30 servera polkitd[751]: Finished loading, compiling and executing 2 rules
+Oct 17 17:00:30 servera polkitd[751]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 17 17:00:32 servera sshd[787]: Server listening on 0.0.0.0 port 22.
+Oct 17 17:00:32 servera sshd[787]: Server listening on :: port 22.
+Oct 17 18:05:04 servera sshd[1752]: Accepted password for root from 192.168.56.118 port 55052 ssh2
+Oct 17 18:05:04 servera systemd[1757]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 17 18:05:04 servera sshd[1752]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 17 18:47:27 servera sshd[1799]: Accepted publickey for admin from 192.168.56.118 port 49848 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 17 18:47:27 servera systemd[1803]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 17 18:47:27 servera sshd[1799]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 17 18:47:28 servera sudo[1950]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-mnemyjpmrwdtnhdxevwbxomcdyslyjxz ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044006.9499407-4544-10694016050372/AnsiballZ_setup.py
+Oct 17 18:47:28 servera sudo[1950]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:47:28 servera sudo[1950]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:47:30 servera sudo[1950]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:47:30 servera sudo[2105]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-lehmfzqknprldnpplxopruywrhgoubfh ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044009.9166436-4561-135058463265209/AnsiballZ_dnf.py
+Oct 17 18:47:30 servera sudo[2105]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:47:30 servera sudo[2105]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:47:33 servera sudo[2105]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:47:33 servera sudo[2225]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-eqvhjlntiqpznerbbmqthmhzcarvrhdg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044012.7365985-4570-26830396258049/AnsiballZ_systemd.py
+Oct 17 18:47:33 servera sudo[2225]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:47:33 servera sudo[2225]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:47:33 servera sudo[2225]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:47:34 servera sudo[2349]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cjebjcodtviwzbfacxppsmvieqmlfkce ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044013.4834654-4579-62496089675685/AnsiballZ_get_url.py
+Oct 17 18:47:34 servera sudo[2349]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:47:34 servera sudo[2349]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:47:34 servera sudo[2349]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:48:35 servera sshd[1814]: Received disconnect from 192.168.56.118 port 49848:11: disconnected by user
+Oct 17 18:48:35 servera sshd[1814]: Disconnected from user admin 192.168.56.118 port 49848
+Oct 17 18:48:35 servera sshd[1799]: pam_unix(sshd:session): session closed for user admin
+Oct 17 18:48:45 servera systemd[1808]: pam_unix(systemd-user:session): session closed for user admin
+Oct 17 18:56:59 servera sshd[2395]: Accepted publickey for admin from 192.168.56.118 port 35128 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 17 18:56:59 servera systemd[2399]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 17 18:56:59 servera sshd[2395]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 17 18:57:00 servera sudo[2545]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-bcirwgjxewuvufujrocwscggtrcerwfw ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044579.1885579-4753-66298255173454/AnsiballZ_setup.py
+Oct 17 18:57:00 servera sudo[2545]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:57:00 servera sudo[2545]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:57:00 servera sudo[2545]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:57:01 servera sudo[2700]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-bkzjgqmlvmxmaaldzptuzobxeutzeztt ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044580.5827935-4768-59821914062961/AnsiballZ_dnf.py
+Oct 17 18:57:01 servera sudo[2700]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:57:01 servera sudo[2700]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:57:02 servera sudo[2700]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:57:02 servera sudo[2820]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-hhnckoujvwnbpfmlthleoevnohtispjo ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044581.8218741-4777-253126078753232/AnsiballZ_systemd.py
+Oct 17 18:57:02 servera sudo[2820]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:57:02 servera sudo[2820]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:57:02 servera sudo[2820]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:57:03 servera sudo[2944]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-hugexkwwzhughelzuromabxmdohqozsx ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044582.601725-4786-232155710890007/AnsiballZ_get_url.py
+Oct 17 18:57:03 servera sudo[2944]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 18:57:03 servera sudo[2944]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 18:57:03 servera sudo[2944]: pam_unix(sudo:session): session closed for user root
+Oct 17 18:58:03 servera sshd[2409]: Received disconnect from 192.168.56.118 port 35128:11: disconnected by user
+Oct 17 18:58:03 servera sshd[2409]: Disconnected from user admin 192.168.56.118 port 35128
+Oct 17 18:58:03 servera sshd[2395]: pam_unix(sshd:session): session closed for user admin
+Oct 17 18:58:13 servera systemd[2403]: pam_unix(systemd-user:session): session closed for user admin
+Oct 17 19:02:16 servera sshd[2990]: Accepted publickey for admin from 192.168.56.118 port 55500 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 17 19:02:16 servera systemd[2994]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 17 19:02:16 servera sshd[2990]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 17 19:02:16 servera sudo[3140]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rrodedlnqhvzqvaocvsclmdsdtnuzyaq ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044895.789775-5004-179560113485734/AnsiballZ_setup.py
+Oct 17 19:02:16 servera sudo[3140]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:16 servera sudo[3140]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:17 servera sudo[3140]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:17 servera sudo[3295]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-paxlwyleaolnticydoiytwgguzztohfj ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044896.8679867-5019-129745674780094/AnsiballZ_dnf.py
+Oct 17 19:02:17 servera sudo[3295]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:17 servera sudo[3295]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:18 servera sudo[3295]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:18 servera sudo[3415]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ipqjxtzxjuzontoqrvdxrovcsyuetkaq ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044897.785907-5028-225909980871137/AnsiballZ_systemd.py
+Oct 17 19:02:18 servera sudo[3415]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:18 servera sudo[3415]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:18 servera sudo[3415]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:19 servera sudo[3539]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-deilqmomsgkxwrieyumocdnaexmwafms ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044898.3537393-5045-207250585761035/AnsiballZ_get_url.py
+Oct 17 19:02:19 servera sudo[3539]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:19 servera sudo[3539]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:19 servera sudo[3539]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:19 servera sudo[3659]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ipipzdxvkrmzywnwhefwowqwpzrxlrgm ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044898.829021-5054-9542329289991/AnsiballZ_systemd.py
+Oct 17 19:02:19 servera sudo[3659]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:19 servera sudo[3659]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:22 servera sudo[3659]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:45 servera sudo[3951]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-eiqsayxtztrtgpukkcufzuovbptynaya ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044924.9087825-5077-140566091939985/AnsiballZ_setup.py
+Oct 17 19:02:45 servera sudo[3951]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:45 servera sudo[3951]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:46 servera sudo[3951]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:46 servera sudo[4106]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rvydvvxzqngngoyuvtcytcmijfwqsqja ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044925.947984-5088-51628417151575/AnsiballZ_dnf.py
+Oct 17 19:02:46 servera sudo[4106]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:46 servera sudo[4106]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:47 servera sudo[4106]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:47 servera sudo[4226]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-cifdoibijslyipddlzltlpozqulunmti ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044926.8700728-5097-75712010377817/AnsiballZ_systemd.py
+Oct 17 19:02:47 servera sudo[4226]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:47 servera sudo[4226]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:47 servera sudo[4226]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:02:48 servera sudo[4350]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ltphhpwgraahqvukmqxkqwrnkwcvkmni ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044927.450789-5106-156407959434346/AnsiballZ_get_url.py
+Oct 17 19:02:48 servera sudo[4350]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:02:48 servera sudo[4350]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:02:48 servera sudo[4350]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:03:13 servera sudo[4507]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-gujxangjnvttdbvubzrlqgnutjrgkssg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044952.3554475-5128-273032393123952/AnsiballZ_ping.py
+Oct 17 19:03:13 servera sudo[4507]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:03:13 servera sudo[4507]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:03:13 servera sudo[4507]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:03:33 servera sudo[4664]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-srmbjiskjacxgmfojpepsmfntxflwvoa ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666044972.7799037-5160-204545501035072/AnsiballZ_command.py
+Oct 17 19:03:33 servera sudo[4664]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 17 19:03:33 servera sudo[4664]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 17 19:03:33 servera sudo[4664]: pam_unix(sudo:session): session closed for user root
+Oct 17 19:04:33 servera sshd[3004]: Received disconnect from 192.168.56.118 port 55500:11: disconnected by user
+Oct 17 19:04:33 servera sshd[3004]: Disconnected from user admin 192.168.56.118 port 55500
+Oct 17 19:04:33 servera sshd[2990]: pam_unix(sshd:session): session closed for user admin
+Oct 17 19:04:44 servera systemd[2998]: pam_unix(systemd-user:session): session closed for user admin
+Oct 18 23:13:30 servera polkitd[744]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 18 23:13:30 servera polkitd[744]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 18 23:13:30 servera polkitd[744]: Finished loading, compiling and executing 2 rules
+Oct 18 23:13:30 servera polkitd[744]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 18 23:13:31 servera sshd[783]: Server listening on 0.0.0.0 port 22.
+Oct 18 23:13:31 servera sshd[783]: Server listening on :: port 22.
+Oct 18 23:16:07 servera sshd[1688]: Accepted password for root from 192.168.56.118 port 45078 ssh2
+Oct 18 23:16:07 servera systemd[1693]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 18 23:16:07 servera sshd[1688]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 19 00:50:17 servera sshd[2134]: Accepted publickey for admin from 192.168.56.118 port 33218 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 00:50:17 servera systemd[2138]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 00:50:17 servera sshd[2134]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 00:50:18 servera sudo[2284]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-otaxkpemrjllcdteugonaevenqtpoqme ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666129818.7958045-4458-1883923684515/AnsiballZ_setup.py
+Oct 19 00:50:18 servera sudo[2284]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:50:18 servera sudo[2284]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:50:19 servera sudo[2284]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:50:19 servera sudo[2439]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-emnqahnaowwaljqbbhcoieevdaprtpsv ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666129820.6519208-4475-214924535287135/AnsiballZ_dnf.py
+Oct 19 00:50:19 servera sudo[2439]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:50:19 servera sudo[2439]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:50:20 servera sudo[2439]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:51:20 servera sshd[2148]: Received disconnect from 192.168.56.118 port 33218:11: disconnected by user
+Oct 19 00:51:20 servera sshd[2148]: Disconnected from user admin 192.168.56.118 port 33218
+Oct 19 00:51:20 servera sshd[2134]: pam_unix(sshd:session): session closed for user admin
+Oct 19 00:51:30 servera systemd[2142]: pam_unix(systemd-user:session): session closed for user admin
+Oct 19 00:53:02 servera sshd[2469]: Accepted publickey for admin from 192.168.56.118 port 55314 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 00:53:02 servera systemd[2473]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 00:53:02 servera sshd[2469]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 00:53:03 servera sudo[2619]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-zpzurqyzzspfxobbamzajuvtlqvldnkg ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666129983.7803745-4537-122563769526815/AnsiballZ_setup.py
+Oct 19 00:53:03 servera sudo[2619]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:53:03 servera sudo[2619]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:53:04 servera sudo[2619]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:53:05 servera sudo[2774]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-zigrrcicbndgpedggcbgbhmfkyuwcdjm ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666129985.9928806-4561-105089099470868/AnsiballZ_dnf.py
+Oct 19 00:53:05 servera sudo[2774]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:53:05 servera sudo[2774]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:53:06 servera sudo[2774]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:53:06 servera sudo[2894]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-uwxjhwdjkuhltxdhdieeqfprkryetyhz ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666129987.2450576-4570-12261745800897/AnsiballZ_dnf.py
+Oct 19 00:53:06 servera sudo[2894]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:53:06 servera sudo[2894]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:53:12 servera useradd[2955]: failed adding user 'mysql', exit code: 9
+Oct 19 00:53:16 servera sudo[2894]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:54:16 servera sshd[2483]: Received disconnect from 192.168.56.118 port 55314:11: disconnected by user
+Oct 19 00:54:16 servera sshd[2483]: Disconnected from user admin 192.168.56.118 port 55314
+Oct 19 00:54:16 servera sshd[2469]: pam_unix(sshd:session): session closed for user admin
+Oct 19 00:59:00 servera sshd[5569]: Accepted publickey for admin from 192.168.56.118 port 41864 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 00:59:00 servera systemd[5573]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 00:59:00 servera sshd[5569]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 00:59:01 servera sudo[5719]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-jfnvvrlsjqtqhlkntkyushxhvvslyudz ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130342.023784-4710-104361069530715/AnsiballZ_setup.py
+Oct 19 00:59:01 servera sudo[5719]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:59:01 servera sudo[5719]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:59:02 servera sudo[5719]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:59:02 servera sudo[5874]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-nynqxemicptkthhbuzjenxlzvaksmmwb ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130343.2708163-4725-161348701093784/AnsiballZ_dnf.py
+Oct 19 00:59:02 servera sudo[5874]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:59:02 servera sudo[5874]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:59:03 servera sudo[5874]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:59:03 servera sudo[5994]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-dokbmcxixhbjojywnczzwhkuaihqwfll ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130344.4286082-4734-212277849854705/AnsiballZ_dnf.py
+Oct 19 00:59:03 servera sudo[5994]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:59:03 servera sudo[5994]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:59:04 servera sudo[5994]: pam_unix(sudo:session): session closed for user root
+Oct 19 00:59:04 servera sudo[6114]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-oibotazxhrotkkrzgsnkqoyecethsvng ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130345.4043612-4751-110151930337071/AnsiballZ_systemd.py
+Oct 19 00:59:04 servera sudo[6114]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 00:59:04 servera sudo[6114]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 00:59:05 servera sudo[6114]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:00:05 servera sshd[5583]: Received disconnect from 192.168.56.118 port 41864:11: disconnected by user
+Oct 19 01:00:05 servera sshd[5583]: Disconnected from user admin 192.168.56.118 port 41864
+Oct 19 01:00:05 servera sshd[5569]: pam_unix(sshd:session): session closed for user admin
+Oct 19 01:00:08 servera sshd[6268]: Accepted publickey for admin from 192.168.56.118 port 51000 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 01:00:08 servera sshd[6268]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 01:00:08 servera sudo[6407]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-inegdgxigskridqxooickmynbpwxmejv ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130409.3021576-4806-16742983511100/AnsiballZ_setup.py
+Oct 19 01:00:08 servera sudo[6407]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:00:08 servera sudo[6407]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:00:09 servera sudo[6407]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:00:09 servera sudo[6563]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-alplgvwwvnmwelonpolqinetwtxrypcd ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130410.4963896-4821-192502981089270/AnsiballZ_dnf.py
+Oct 19 01:00:09 servera sudo[6563]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:00:09 servera sudo[6563]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:00:12 servera sudo[6563]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:00:12 servera sudo[7104]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ozpnokmqyyhbqiwlyuprupplaenocprl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130413.5524423-4830-44510527706749/AnsiballZ_systemd.py
+Oct 19 01:00:12 servera sudo[7104]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:00:12 servera sudo[7104]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:00:13 servera sudo[7104]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:01:13 servera sshd[6271]: Received disconnect from 192.168.56.118 port 51000:11: disconnected by user
+Oct 19 01:01:13 servera sshd[6271]: Disconnected from user admin 192.168.56.118 port 51000
+Oct 19 01:01:13 servera sshd[6268]: pam_unix(sshd:session): session closed for user admin
+Oct 19 01:01:50 servera sshd[7157]: Accepted publickey for admin from 192.168.56.118 port 47546 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 01:01:50 servera systemd[7161]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 01:01:50 servera sshd[7157]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 01:01:51 servera sudo[7307]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-iindravwzpgnsvuvssaddvgrhsvqkfic ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130511.8075519-4883-86543382772835/AnsiballZ_setup.py
+Oct 19 01:01:51 servera sudo[7307]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:01:51 servera sudo[7307]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:01:51 servera sudo[7307]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:01:52 servera sudo[7462]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ebjujbttaxehrvobdmnpnjwjgnjyeaze ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130512.914352-4898-48088024051752/AnsiballZ_command.py
+Oct 19 01:01:52 servera sudo[7462]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:01:52 servera sudo[7462]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:01:52 servera sudo[7462]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:01:52 servera sudo[7583]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-jqtbgzaidrcybtggsooulwbzvrhezbzf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130513.499752-4909-100280218868410/AnsiballZ_dnf.py
+Oct 19 01:01:52 servera sudo[7583]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:01:52 servera sudo[7583]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:01:53 servera sudo[7583]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:01:53 servera sudo[7703]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-yaesobkrveprnfrtibpjclltbexsaxrf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130514.5341263-4918-102893656132612/AnsiballZ_systemd.py
+Oct 19 01:01:53 servera sudo[7703]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:01:53 servera sudo[7703]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:01:54 servera sudo[7703]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:02:16 servera sudo[7863]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ttyccjsumydprtrgqzgjpguiqllzuyie ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130536.8160753-4948-49553450022673/AnsiballZ_setup.py
+Oct 19 01:02:16 servera sudo[7863]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:02:16 servera sudo[7863]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:02:16 servera sudo[7863]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:02:17 servera sudo[8018]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-kgqehpsdmzpxemsdvfwpdovsbthtovtq ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130537.9445145-4959-212131773686155/AnsiballZ_command.py
+Oct 19 01:02:17 servera sudo[8018]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:02:17 servera sudo[8018]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:02:17 servera sudo[8018]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:02:17 servera sudo[8139]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-yibuvvstmjzbfnieydbvmhtvmigsdlmj ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130538.5349948-4970-233150487416257/AnsiballZ_dnf.py
+Oct 19 01:02:17 servera sudo[8139]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:02:17 servera sudo[8139]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:02:18 servera sudo[8139]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:02:18 servera sudo[8259]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-rpdjdbtctjlejufxdlmacapwkwmzagcl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130539.5371664-4979-45241558704064/AnsiballZ_systemd.py
+Oct 19 01:02:18 servera sudo[8259]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:02:18 servera sudo[8259]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:02:19 servera sudo[8259]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:03:01 servera sudo[8419]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-gzqpivviedpeyvghzjslhhhjvztnzpeb ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130581.8032813-5008-269504508576275/AnsiballZ_setup.py
+Oct 19 01:03:01 servera sudo[8419]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:03:01 servera sudo[8419]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:03:01 servera sudo[8419]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:03:02 servera sudo[8574]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ymylrtiiwdeuqalgvuwhfrmfrqxqwlrd ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130582.8486602-5019-86751358430365/AnsiballZ_command.py
+Oct 19 01:03:02 servera sudo[8574]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:03:02 servera sudo[8574]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:03:02 servera sudo[8574]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:03:02 servera sudo[8695]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-eqnbafkytgifitovkysqubngannkayvi ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130583.4564638-5031-271639348313840/AnsiballZ_dnf.py
+Oct 19 01:03:02 servera sudo[8695]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:03:02 servera sudo[8695]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:03:03 servera sudo[8695]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:03:03 servera sudo[8815]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-iphjqzekhfuwdkxycylztvqywgifgnxw ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130584.5092034-5040-200654506315823/AnsiballZ_systemd.py
+Oct 19 01:03:03 servera sudo[8815]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:03:03 servera sudo[8815]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:03:04 servera sudo[8815]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:04:04 servera sshd[7171]: Received disconnect from 192.168.56.118 port 47546:11: disconnected by user
+Oct 19 01:04:04 servera sshd[7171]: Disconnected from user admin 192.168.56.118 port 47546
+Oct 19 01:04:04 servera sshd[7157]: pam_unix(sshd:session): session closed for user admin
+Oct 19 01:04:14 servera systemd[7165]: pam_unix(systemd-user:session): session closed for user admin
+Oct 19 01:05:24 servera sshd[8848]: Accepted publickey for admin from 192.168.56.118 port 38350 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 01:05:24 servera systemd[8852]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 01:05:24 servera sshd[8848]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 01:05:24 servera sudo[8998]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-pjpsrrfhvyxhyamkntelcmkpfohgmmbp ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130725.4984028-5097-184950366725152/AnsiballZ_setup.py
+Oct 19 01:05:24 servera sudo[8998]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:05:24 servera sudo[8998]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:05:25 servera sudo[8998]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:05:25 servera sudo[9153]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-gclfhaeqvnleehrsrzvxfutbzxpylnnf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130726.5979283-5112-126805977140618/AnsiballZ_command.py
+Oct 19 01:05:25 servera sudo[9153]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:05:25 servera sudo[9153]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:05:26 servera sudo[9153]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:05:26 servera sudo[9274]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-vpfjuvumpmyytzkrhqekyiohhyhxglyv ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130727.1933556-5123-121454412651162/AnsiballZ_dnf.py
+Oct 19 01:05:26 servera sudo[9274]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:05:26 servera sudo[9274]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:05:27 servera sudo[9274]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:05:27 servera sudo[9394]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-fwqzfwkgykmtcjpjrnvelxvrlxfvzxkc ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130728.2933316-5132-139708566786985/AnsiballZ_dnf.py
+Oct 19 01:05:27 servera sudo[9394]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:05:27 servera sudo[9394]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:05:28 servera sudo[9394]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:05:28 servera sudo[9514]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-sqgkanfzcxsejohazusuyicmzbdywosf ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666130729.2356539-5141-94319819666462/AnsiballZ_systemd.py
+Oct 19 01:05:28 servera sudo[9514]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 19 01:05:28 servera sudo[9514]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 19 01:05:28 servera sudo[9514]: pam_unix(sudo:session): session closed for user root
+Oct 19 01:06:28 servera sshd[8862]: Received disconnect from 192.168.56.118 port 38350:11: disconnected by user
+Oct 19 01:06:28 servera sshd[8862]: Disconnected from user admin 192.168.56.118 port 38350
+Oct 19 01:06:28 servera sshd[8848]: pam_unix(sshd:session): session closed for user admin
+Oct 19 01:06:38 servera systemd[8856]: pam_unix(systemd-user:session): session closed for user admin
+Oct 19 22:25:47 servera polkitd[754]: Loading rules from directory /etc/polkit-1/rules.d
+Oct 19 22:25:47 servera polkitd[754]: Loading rules from directory /usr/share/polkit-1/rules.d
+Oct 19 22:25:47 servera polkitd[754]: Finished loading, compiling and executing 2 rules
+Oct 19 22:25:47 servera polkitd[754]: Acquired the name org.freedesktop.PolicyKit1 on the system bus
+Oct 19 22:25:48 servera sshd[787]: Server listening on 0.0.0.0 port 22.
+Oct 19 22:25:48 servera sshd[787]: Server listening on :: port 22.
+Oct 19 22:26:38 servera sshd[1354]: Accepted password for root from 192.168.56.118 port 35612 ssh2
+Oct 19 22:26:38 servera systemd[1359]: pam_unix(systemd-user:session): session opened for user root by (uid=0)
+Oct 19 22:26:38 servera sshd[1354]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 19 22:28:10 servera sshd[1393]: Accepted publickey for admin from 192.168.56.118 port 50100 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 19 22:28:10 servera systemd[1397]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 19 22:28:10 servera sshd[1393]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 19 22:28:12 servera sshd[1407]: Received disconnect from 192.168.56.118 port 50100:11: disconnected by user
+Oct 19 22:28:12 servera sshd[1407]: Disconnected from user admin 192.168.56.118 port 50100
+Oct 19 22:28:12 servera sshd[1393]: pam_unix(sshd:session): session closed for user admin
+Oct 19 22:28:22 servera systemd[1401]: pam_unix(systemd-user:session): session closed for user admin
+Oct 20 00:38:25 servera sshd[1516]: Accepted publickey for admin from 192.168.56.118 port 58962 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 20 00:38:25 servera systemd[1520]: pam_unix(systemd-user:session): session opened for user admin by (uid=0)
+Oct 20 00:38:25 servera sshd[1516]: pam_unix(sshd:session): session opened for user admin by (uid=0)
+Oct 20 00:38:26 servera sudo[1667]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-ifpujrsqixnfxsqdpxeghcncacfpiksl ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666215507.3452818-4896-182387866908198/AnsiballZ_ping.py
+Oct 20 00:38:26 servera sudo[1667]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 20 00:38:26 servera sudo[1667]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 20 00:38:27 servera sudo[1667]: pam_unix(sudo:session): session closed for user root
+Oct 20 00:38:47 servera sudo[1824]:   admin : TTY=pts/1 ; PWD=/home/admin ; USER=root ; COMMAND=/bin/sh -c echo BECOME-SUCCESS-glmdusennnldhyaetsdjxaadhuwvxogp ; /usr/libexec/platform-python /home/admin/.ansible/tmp/ansible-tmp-1666215528.1200397-4948-69760460149117/AnsiballZ_command.py
+Oct 20 00:38:47 servera sudo[1824]: pam_systemd(sudo:session): Cannot create session: Already running in a session or user slice
+Oct 20 00:38:47 servera sudo[1824]: pam_unix(sudo:session): session opened for user root by admin(uid=0)
+Oct 20 00:38:47 servera sudo[1824]: pam_unix(sudo:session): session closed for user root
+Oct 20 00:39:47 servera sshd[1531]: Received disconnect from 192.168.56.118 port 58962:11: disconnected by user
+Oct 20 00:39:47 servera sshd[1531]: Disconnected from user admin 192.168.56.118 port 58962
+Oct 20 00:39:47 servera sshd[1516]: pam_unix(sshd:session): session closed for user admin
+Oct 20 00:39:57 servera systemd[1525]: pam_unix(systemd-user:session): session closed for user admin
+Oct 20 00:44:45 servera sshd[1854]: Connection closed by authenticating user root 192.168.56.118 port 55290 [preauth]
+Oct 20 00:46:56 servera sshd[1857]: Connection closed by authenticating user root 192.168.56.118 port 47710 [preauth]
+Oct 20 00:46:56 servera sshd[1859]: Connection closed by authenticating user root 192.168.56.118 port 47726 [preauth]
+Oct 20 00:46:59 servera sshd[1861]: Accepted password for root from 192.168.56.118 port 47740 ssh2
+Oct 20 00:46:59 servera sshd[1861]: pam_unix(sshd:session): session opened for user root by (uid=0)
+Oct 20 00:46:59 servera sshd[1865]: Received disconnect from 192.168.56.118 port 47740:11: disconnected by user
+Oct 20 00:46:59 servera sshd[1865]: Disconnected from user root 192.168.56.118 port 47740
+Oct 20 00:46:59 servera sshd[1861]: pam_unix(sshd:session): session closed for user root
+Oct 20 00:47:40 servera sshd[1885]: Accepted publickey for root from 192.168.56.118 port 55220 ssh2: RSA SHA256:ksJ3ktFlPhgrO5TxnGwtYhZgs1xiE/imTzxOye6ihP0
+Oct 20 00:47:40 servera sshd[1885]: pam_unix(sshd:session): session opened for user root by (uid=0)
